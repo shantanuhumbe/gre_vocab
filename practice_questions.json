@@ -2158,6 +2158,422 @@
                 "E"
             ],
             "explanation": "The sentence implies that the success was not due to careful planning but rather to factors that happened by chance. 'Adventitious' and 'accidental' both mean occurring by chance, making them the correct answers."
+        },
+        "Survival And Extinction": {
+            "sentence": "The museum is showcasing a collection of artifacts that represent life in ancient Egypt, including an _________ scroll that dates back over 3,000 years.",
+            "choices": [
+                "A. Extant",
+                "B. Extinctive",
+                "C. Enduring",
+                "D. Obsolete",
+                "E. Nonexistent",
+                "F. Persistent"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a scroll that has survived for over 3,000 years, which means it is still in existence. 'Extant' directly matches the definition of something still existing. 'Extinctive' can also fit as it relates to survival or continuation from an earlier time, though it's more commonly used in biological contexts."
+        },
+        "Earnest And Sincere": {
+            "sentence": "Her________efforts finally paid off when she received the promotion she had been striving for.",
+            "choices": [
+                "A. Diligent",
+                "B. Earnest",
+                "C. Constant",
+                "D. Honest",
+                "E. Hardworking",
+                "F. Sincere"
+            ],
+            "correct_answers": [
+                "B",
+                "E"
+            ],
+            "explanation": "The sentence describes efforts that were both sincere and intense, fitting the definition of 'earnest'. 'Hardworking' (E) is a synonym that conveys the same meaning as 'earnest', making them the correct answers."
+        },
+        "Contrast And Division": {
+            "sentence": "The relationship between the two nations has always been marked by a deep __________ in their political ideologies.",
+            "choices": [
+                "A. Dichotomy",
+                "B. Indigence",
+                "C. Synergy",
+                "D. Unity",
+                "E. Compromise",
+                "F. Tension"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The sentence describes a relationship characterized by opposing political ideologies, which fits the definition of 'dichotomy' (a division between two things) and 'tension' (a feeling of hostility or opposition)."
+        },
+        "Effortless Elegance": {
+            "sentence": "The performance was________, but it lacked depth and substance.",
+            "choices": [
+                "A. Facile",
+                "B. Mellifluous",
+                "C. Elaborate",
+                "D. Complex",
+                "E. Tedious",
+                "F. Effortless"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The sentence describes a performance that appears easy or effortless (facile) but lacks depth. 'Facile' and 'effortless' both fit the blank, as they convey the appearance of ease without implying substance."
+        },
+        "Endurance And Persistence": {
+            "sentence": "Despite her __________ efforts, she managed to complete the marathon in record time.",
+            "choices": [
+                "A. Weary",
+                "B. Indefatigable",
+                "C. Exhausted",
+                "D. Tireless",
+                "E. Fatigued",
+                "F. Drowsy"
+            ],
+            "correct_answers": [
+                "B",
+                "D"
+            ],
+            "explanation": "The sentence describes someone who didn't give up despite their efforts, which fits 'Indefatigable' and its synonym 'Tireless'."
+        },
+        "Wandering And Movement": {
+            "sentence": "The river __________ through the valley, creating a beautiful and intricate pattern as it flowed towards the sea.",
+            "choices": [
+                "A. Streaked",
+                "B. Meandered",
+                "C. Rushed",
+                "D. Wound",
+                "E. Dashed",
+                "F. Drained"
+            ],
+            "correct_answers": [
+                "B",
+                "D"
+            ],
+            "explanation": "The sentence describes a river's path, which is winding and intricate. 'Meandered' directly fits the definition of meandering, while 'Wound' also conveys a similar sense of following a winding course."
+        },
+        "Greenery And Inexperience": {
+            "sentence": "The ________ meadows were a stark contrast to the barren wasteland nearby.",
+            "choices": [
+                "A. Bucolic",
+                "B. Barren",
+                "C. Verdant",
+                "D. Arid",
+                "E. Fertile",
+                "F. Lush"
+            ],
+            "correct_answers": [
+                "C",
+                "F"
+            ],
+            "explanation": "Both 'Verdant' and 'Lush' describe areas rich in vegetation, fitting the context of meadows."
+        },
+        "Hunger And Appetite": {
+            "sentence": "After being stranded in the desert for three days without any food, John was ________ with hunger.",
+            "choices": [
+                "A. Ravenous",
+                "B. Content",
+                "C. Satiated",
+                "D.avenous",
+                "E. Filled",
+                "F.\u996b\u98df\u7684"
+            ],
+            "correct_answers": [
+                "A",
+                "D"
+            ],
+            "explanation": "The sentence describes John's intense hunger after being stranded for three days without food, which fits the definition of 'ravenous.' Choice A is the direct synonym provided, and choice D ('avenous') also means extremely hungry, making both correct."
+        },
+        "Mellow And Smooth": {
+            "sentence": "The ________ tone of the jazz musician's playing made the audience feel at ease.",
+            "choices": [
+                "A. Mellow",
+                "B. Pithy",
+                "C. Smooth",
+                "D. Harsh",
+                "E. Crisp",
+                "F. Soft"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The sentence describes a tone that is pleasant and smooth, making the audience feel at ease. 'Mellow' (A) fits perfectly as it conveys a soothing quality. 'Soft' (F) also works well to describe a gentle and calming tone, making both A and F correct choices."
+        },
+        "Agreement And Consistency": {
+            "sentence": "The __________ among the experts was remarkable, as they all agreed on the importance of sustainable development.",
+            "choices": [
+                "A. Concordance",
+                "B. Consensus",
+                "C. Disagreement",
+                "D. Contention",
+                "E. Discord",
+                "F. Unity"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "Both 'Concordance' and 'Consensus' fit well in the sentence, as they both convey agreement or consistency among the experts."
+        },
+        "Contentment And Happiness": {
+            "sentence": "After years of hard work and dedication, she finally achieved her goals and felt a deep sense of __________.",
+            "choices": [
+                "A. Contentment",
+                "B. Ambition",
+                "C. Envy",
+                "D. Gratitude",
+                "E. Resentment",
+                "F. Satisfaction"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The sentence describes a feeling of happiness and satisfaction upon achieving goals, which corresponds to both 'Contentment' (happiness and satisfaction) and 'Satisfaction' (fulfillment)."
+        },
+        "Experienced And Mature": {
+            "sentence": "After years of working in high-stress environments, Sarah found that her ________ demeanor helped her approach difficult conversations with a calm and reasoned perspective.",
+            "choices": [
+                "A. Mellow",
+                "B. Diffident",
+                "C. Eager",
+                "D. Aggressive",
+                "E. Enthusiastic",
+                "F. Reserved"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes Sarah's demeanor after years of experience, which fits the meaning of 'mellow' as tempered by maturity and also aligns with 'diffident,' suggesting a calm and soft approach."
+        },
+        "Teaching And Instruction": {
+            "sentence": "The [BLANK] nature of the lecture left many audience members feeling overwhelmed and lectured.",
+            "choices": [
+                "A. Analytical",
+                "B. Didactic",
+                "C. Entertaining",
+                "D. Practical",
+                "E. Savant",
+                "F. Objective"
+            ],
+            "correct_answers": [
+                "B",
+                "E"
+            ],
+            "explanation": "The sentence describes a lecture that is overly instructional or teaching-focused, which fits the definition of 'didactic'. The synonym provided here is 'Savant', but in this context, it's used to imply someone knowledgeable who might lecture excessively, aligning with the didactic meaning."
+        },
+        "Unclear And Vague": {
+            "sentence": "The cause of her illness remained __________ despite extensive testing.",
+            "choices": [
+                "A. Indeterminate",
+                "B. Curative",
+                "C. Contagious",
+                "D. Preventive",
+                "E. Vestige",
+                "F. Terminal"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The sentence describes a situation where the cause of an illness is not clearly known, which matches the meaning of 'Indeterminate'. 'Vestige' means a trace or sign of something that has passed, which also fits as it suggests the presence of some indication without clarity. The other options do not fit the context."
+        },
+        "Rapid Talk And Conversation": {
+            "sentence": "The audience was captivated by the speaker's __________ as they delivered their fast-paced, witty remarks.",
+            "choices": [
+                "A. Banter",
+                "B. Palaver",
+                "C. Chatter",
+                "D. Drivel",
+                "E. Gabble",
+                "F. Patter"
+            ],
+            "correct_answers": [
+                "B",
+                "F"
+            ],
+            "explanation": "The sentence describes a speaker delivering fast-paced, witty remarks, which fits the definition of both 'Patter' (rapid continuous talk) and its synonym 'Palaver'."
+        },
+        "Elaborate Speech": {
+            "sentence": "The critic harshly condemned the author's latest novel as being overly ________ in its language.",
+            "choices": [
+                "A. Flowery",
+                "B. Confab",
+                "C.Verbose",
+                "D.Chatty",
+                "E.Garrulous",
+                "F.Plausible"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes the author's language as overly elaborate or literary, which fits 'Flowery'. 'Confab' is a close synonym meaning similar."
+        },
+        "Travel And Movement": {
+            "sentence": "The judge decided to __________ the death sentence to life imprisonment.",
+            "choices": [
+                "A. Abolish",
+                "B. Commute",
+                "C. Execute",
+                "D. Mitigate",
+                "E. Reduce",
+                "F. Suspend"
+            ],
+            "correct_answers": [
+                "B",
+                "E"
+            ],
+            "explanation": "Both 'Commute' and 'Reduce' fit the context of lessening a severe sentence."
+        },
+        "Dullness And Repetition": {
+            "sentence": "The lecture was __________ and failed to engage the audience.",
+            "choices": [
+                "A. Monotonous",
+                "B. Burgeon",
+                "C. Enthusiastic",
+                "D. Dazzling",
+                "E. Boring",
+                "F. Vivid"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "Both 'Monotonous' and 'Boring' accurately describe the lecture as dull and uninteresting, fitting the definition of lacking variety and being tedious."
+        },
+        "Opposition And Dissent": {
+            "sentence": "The new policy was met with strong opposition from a ________ within the party that felt it compromised their core values.",
+            "choices": [
+                "A. majority",
+                "B. faction",
+                "C. minority",
+                "D. leader",
+                "E. dissident",
+                "F. committee"
+            ],
+            "correct_answers": [
+                "B",
+                "E"
+            ],
+            "explanation": "The sentence describes a group within the party that opposes the new policy. 'Faction' and 'dissident' both fit here as they refer to groups or individuals with differing beliefs."
+        },
+        "Scholarship And Learning": {
+            "sentence": "The [BLANK] was invited to speak at the conference because of their deep expertise in artificial intelligence.",
+            "choices": [
+                "A. Novice",
+                "B. Scholar",
+                "C. Enthusiast",
+                "D. Expert",
+                "E. Savant",
+                "F. Amateur"
+            ],
+            "correct_answers": [
+                "B",
+                "E"
+            ],
+            "explanation": "Both 'Scholar' and 'Savant' mean a learned person or someone with extensive knowledge in their field, fitting the context of being invited to speak at a conference for expertise."
+        },
+        "Deception And Dupery": {
+            "sentence": "The magician's tricks were so convincing that many in the audience thought they were real, but in reality, he was merely trying to ______ them.",
+            "choices": [
+                "A. Amuse",
+                "B. Delude",
+                "C. Confuse",
+                "D. Entertain",
+                "E. Dupe",
+                "F. Enlighten"
+            ],
+            "correct_answers": [
+                "E",
+                "B"
+            ],
+            "explanation": "The sentence describes the magician's intention to deceive the audience, which aligns with both 'dupe' (to trick) and 'delude' (to deceive). The other options do not fit the context of deception."
+        },
+        "Alliance And Collaboration": {
+            "sentence": "The political _________ formed to address economic reforms was met with both support and criticism.",
+            "choices": [
+                "A. Coalition",
+                "B. Alliance",
+                "C. Union",
+                "D. Accord",
+                "E. Compromise",
+                "F. Agreement"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "Both 'Coalition' and 'Alliance' fit well in the sentence as they both refer to a temporary political union for combined action."
+        },
+        "Wine And Scent": {
+            "sentence": "The sommelier noted that the red wine had a complex __________ that hinted at dark berries and spices.",
+            "choices": [
+                "A. Aroma",
+                "B. Bouquet",
+                "C. Vintage",
+                "D. Flavor",
+                "E. Tannin",
+                "F. Body"
+            ],
+            "correct_answers": [
+                "B",
+                "A"
+            ],
+            "explanation": "The sentence describes the scent of a wine, which is best described by 'bouquet' or its synonym 'aroma'."
+        },
+        "Enlargement And Expansion": {
+            "sentence": "The new policy aimed to __________ the company's influence in the global market.",
+            "choices": [
+                "A. Aggrandize",
+                "B. Diminish",
+                "C. Maintain",
+                "D. Expand",
+                "E. Limit",
+                "F. Reduce"
+            ],
+            "correct_answers": [
+                "A",
+                "D"
+            ],
+            "explanation": "The sentence is about increasing influence, which matches both 'Aggrandize' and 'Expand'."
+        },
+        "Poverty And Need": {
+            "sentence": "Despite years of hard work, their ________ lifestyle was evident to everyone who visited their small, dilapidated home.",
+            "choices": [
+                "A. Indigence",
+                "B. Wealth",
+                "C. Extravagance",
+                "D. Prosperity",
+                "E. Poverty",
+                "F. Affluence"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The sentence describes a lifestyle characterized by lack of resources, which fits both 'Indigence' and 'Poverty'."
+        },
+        "Insight And Realization": {
+            "sentence": "After years of research, she finally had a __________ regarding the true purpose of her study.",
+            "choices": [
+                "A. Challenge",
+                "B. Epiphany",
+                "C. Disappointment",
+                "D. Realization",
+                "E. Confusion",
+                "F. Curiosity"
+            ],
+            "correct_answers": [
+                "B",
+                "D"
+            ],
+            "explanation": "The sentence describes a sudden understanding or insight, which fits both 'Epiphany' and 'Realization'."
         }
     }
 }
