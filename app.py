@@ -565,24 +565,45 @@ with tab_groups:
                 
                 # Quiz option
                 if st.button(f"🎯 Practice Quiz: {active_c}", use_container_width=True, type="primary"):
-                    rand_word_item = random.choice(matched_list)
-                    with st.spinner(f"Generating GRE question testing meaning of {rand_word_item['word']}..."):
-                        engine_val = "Gemini" if engine == "Gemini (Cloud)" else "Ollama"
-                        q_data = generate_verbal_question(
-                            rand_word_item['word'], 
-                            rand_word_item['definition'], 
-                            gemini_api_key, 
-                            engine_val, 
-                            "SE"
-                        )
-                        if "error" in q_data:
-                            st.error(q_data["error"])
-                        else:
-                            st.session_state.quiz_question = q_data
-                            st.session_state.selected_choices = []
-                            st.session_state.quiz_answered = False
-                            st.session_state.quiz_target_word = rand_word_item['word']
-                            st.success(f"Generated Sentence Equivalence question for **{rand_word_item['word']}**! Go to the **Practice Arena** tab below to solve it.")
+                    q_data = None
+                    
+                    # Try to load pre-generated question from JSON
+                    pq_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "practice_questions.json")
+                    if os.path.exists(pq_file):
+                        try:
+                            with open(pq_file, "r", encoding="utf-8") as f:
+                                pq_data = json.load(f).get("questions", {})
+                            if active_c in pq_data:
+                                q_data = pq_data[active_c]
+                                q_data["type"] = "SE"
+                        except Exception as e:
+                            pass
+                            
+                    if q_data:
+                        st.session_state.quiz_question = q_data
+                        st.session_state.selected_choices = []
+                        st.session_state.quiz_answered = False
+                        st.session_state.quiz_target_word = matched_list[0]['word']
+                        st.success(f"Loaded pre-generated practice question instantly! Go to the **Practice Arena** tab below to solve it.")
+                    else:
+                        rand_word_item = random.choice(matched_list)
+                        with st.spinner(f"Pre-generated question not found. Generating dynamically testing {rand_word_item['word']}..."):
+                            engine_val = "Gemini" if engine == "Gemini (Cloud)" else "Ollama"
+                            q_data = generate_verbal_question(
+                                rand_word_item['word'], 
+                                rand_word_item['definition'], 
+                                gemini_api_key, 
+                                engine_val, 
+                                "SE"
+                            )
+                            if "error" in q_data:
+                                st.error(q_data["error"])
+                            else:
+                                st.session_state.quiz_question = q_data
+                                st.session_state.selected_choices = []
+                                st.session_state.quiz_answered = False
+                                st.session_state.quiz_target_word = rand_word_item['word']
+                                st.success(f"Generated Sentence Equivalence question for **{rand_word_item['word']}**! Go to the **Practice Arena** tab below to solve it.")
 # ----------------- TABS: Root Decoders -----------------
 with tab_roots:
     st.markdown("### 🔑 Greek & Latin Root Decoders")
