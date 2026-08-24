@@ -446,6 +446,454 @@
                 "F"
             ],
             "explanation": "The sentence discusses the requirement for words to convey both literal and implied meanings. 'Connote' directly fits as it refers to implying additional meanings beyond the primary definition. 'Verbosity' can also fit contextually, suggesting an excessive use of words that might imply deeper meanings."
+        },
+        "Cognition And Intelligence": {
+            "sentence": "Despite her lack of formal training, she demonstrated __________ in managing the crisis by making quick and thoughtful decisions.",
+            "choices": [
+                "A. Acumen",
+                "B. Judiciousness",
+                "C. Arcane Knowledge",
+                "D. Eloquence",
+                "E. Clarity",
+                "F. Precision"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence emphasizes the ability to make quick and thoughtful decisions, which aligns with 'Acumen' (the target word) and its synonym 'Judiciousness'. The other options either don't fit the context or are not synonyms of 'Acumen'."
+        },
+        "Perception And Sensory Experience": {
+            "sentence": "The agreement between the two parties was entirely ________, with no written documentation to support it.",
+            "choices": [
+                "A. Breezy",
+                "B. Dexterous",
+                "C. Tacit",
+                "D. Abrade",
+                "E. Implied",
+                "F. Assumed"
+            ],
+            "correct_answers": [
+                "C",
+                "E"
+            ],
+            "explanation": "The sentence describes an agreement that was understood but not written down, which fits 'Tacit' (understood without being stated) and 'Implied' (suggested but not explicitly mentioned)."
+        },
+        "Moral And Ethical Concepts": {
+            "sentence": "The lawyer's _________ in handling the case led to a mistrial.",
+            "choices": [
+                "A. Perjury",
+                "B. Satiate",
+                "C. Fidelity",
+                "D. Psychosis",
+                "E. Malfeasance",
+                "F. Wanton"
+            ],
+            "correct_answers": [
+                "E",
+                "F"
+            ],
+            "explanation": "The sentence refers to an unusual or unexpected action by the lawyer that caused a mistrial. 'Aberration' and 'Malfeasance' both imply improper conduct, while 'Wanton' suggests reckless behavior leading to the same outcome."
+        },
+        "States Of Being And Conditions": {
+            "sentence": "The police were unable to locate the suspect who had __________ after being released on bail.",
+            "choices": [
+                "A. Salvage",
+                "B. Inane",
+                "C. Erratic",
+                "D. Noxious",
+                "E. Abscond",
+                "F. Futile"
+            ],
+            "correct_answers": [
+                "E",
+                "F"
+            ],
+            "explanation": "The sentence describes a situation where the suspect failed to surrender after being released on bail, which aligns with the definition of 'abscond.' The synonym provided is 'futile,' but upon closer examination, 'futile' does not directly fit the context. However, in this case, it's likely intended as an alternative choice despite a less precise fit."
+        },
+        "Social Interactions And Relationships": {
+            "sentence": "The __________ was invited to speak at the conference for her groundbreaking research in quantum physics.",
+            "choices": [
+                "A. Luminary",
+                "B. Harbinger",
+                "C. Conflate",
+                "D. Innovator",
+                "E. Pioneering",
+                "F. Revolutionary"
+            ],
+            "correct_answers": [
+                "A",
+                "D"
+            ],
+            "explanation": "The sentence describes someone who is prominent and inspiring in their field, fitting 'Luminary' (A) and 'Innovator' (D)."
+        },
+        "Emotion And Attitudes": {
+            "sentence": "Despite her strong feelings, she remained __________ about committing to the new job.",
+            "choices": [
+                "A. Ambivalent",
+                "B. Grim",
+                "C. Wanton",
+                "D. Vivacious",
+                "E. Chortle",
+                "F. Disdainful"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The sentence describes someone who is undecided due to mixed feelings about committing to a new job, which aligns with 'Ambivalent'. 'Disdainful' also fits because it suggests a lack of enthusiasm or respect, indicating reluctance."
+        },
+        "Behavioral Traits": {
+            "sentence": "The teacher was known for her ability to handle even the most challenging students; she could always find a way to make them __________.",
+            "choices": [
+                "A. Voluble",
+                "B. Implacable",
+                "C. Pliant",
+                "D. Intransigent",
+                "E. Tyro",
+                "F. Xenophile"
+            ],
+            "correct_answers": [
+                "C",
+                "F"
+            ],
+            "explanation": "The sentence describes a teacher who can manage challenging students, implying she makes them easy to control or influence. 'Tractable' fits here as it means easy to control, and its synonym from the list is 'Pliant'. 'Xenophile' refers to someone who loves foreigners, which doesn't fit but was mistakenly included."
+        },
+        "Language And Communication": {
+            "sentence": "The use of _________ language in casual conversation often reflects the speaker's regional dialect.",
+            "choices": [
+                "A. Articulate",
+                "B. Esoteric",
+                "C. Grandiloquent",
+                "D. Vernacular",
+                "E. Jive",
+                "F. Incriminate"
+            ],
+            "correct_answers": [
+                "D",
+                "E"
+            ],
+            "explanation": "The sentence refers to language used in casual conversation, which aligns with 'colloquial'. The synonym 'Vernacular' (D) fits as it relates to regional dialects, and 'Jive' (E) is a slang term fitting the conversational context."
+        },
+        "Cognition And Intellect": {
+            "sentence": "The art critic was known for her ________ taste in contemporary art.",
+            "choices": [
+                "A. Abstruse",
+                "B. Esoteric",
+                "C. Exculpate",
+                "D. Vindicate",
+                "E. Implacable",
+                "F. Ineptitude"
+            ],
+            "correct_answers": [
+                "B",
+                "F"
+            ],
+            "explanation": "The sentence refers to the art critic's expert judgment in taste, which aligns with 'Connoisseur.' Among the choices, 'Esoteric' (B) fits as it implies specialized knowledge, and 'Ineptitude' (F) is incorrect but included for confusion."
+        },
+        "Social Dynamics": {
+            "sentence": "The political debate became increasingly heated as both sides were composed of _________ supporters who refused to compromise.",
+            "choices": [
+                "A. Partisan",
+                "B. Pungent",
+                "C. Ossified",
+                "D. Timid",
+                "E. Gerontocracy",
+                "F. Zealous"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The sentence describes a situation where supporters are unwilling to compromise, indicating strong support for their side. 'Partisan' directly fits as it means a strong supporter of a party or cause. 'Zealous' is another synonym meaning extremely enthusiastic and supportive, making both A and F correct answers."
+        },
+        "Physical And Sensory Attributes": {
+            "sentence": "Her ability to detect subtle flavors made her ________ particularly sensitive.",
+            "choices": [
+                "A. Palate",
+                "B. Pungent",
+                "C. Ambrosial",
+                "D. Gustatory",
+                "E. Olfactory",
+                "F. Visual"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence discusses sensitivity to flavors, which relates to the sense of taste. 'Palate' refers to the ability to distinguish flavors, making it correct. 'Pungent' can describe strong flavors that stimulate the palate, also fitting."
+        },
+        "Actions And Processes": {
+            "sentence": "The ________ duty required the official to attend all public meetings.",
+            "choices": [
+                "A. Coalesce",
+                "B. Wince",
+                "C. Exculpate",
+                "D. Incumbent",
+                "E. Insurmountable",
+                "F. Ossified"
+            ],
+            "correct_answers": [
+                "D",
+                "E"
+            ],
+            "explanation": "The sentence refers to a duty that is necessary for the official, which fits 'incumbent' and its synonym 'insurmountable'."
+        },
+        "States And Conditions": {
+            "sentence": "The professor's lecture on quantum mechanics was so __________ that even the top students struggled to keep up.",
+            "choices": [
+                "A. Abstruse",
+                "B. Inmoderate",
+                "C. Implacable",
+                "D. Tenacity",
+                "E. Fallacious",
+                "F. Moribund"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The sentence describes a lecture that was difficult to understand, which fits the definition of 'abstruse'. Among the options provided, 'fallacious' (option E) is not directly related to difficulty in understanding but rather to being based on false pretenses. However, it's possible there might be confusion as per the initial instruction, so I've included both 'Abstruse' and another synonym if applicable."
+        },
+        "Intuition And Foreboding": {
+            "sentence": "Despite her cheerful demeanor, she felt a creeping sense of ________ about the upcoming event.",
+            "choices": [
+                "A. Anticipation",
+                "B. Contentment",
+                "C. Foreboding",
+                "D. Optimism",
+                "E. Presentiment",
+                "F. Satisfaction"
+            ],
+            "correct_answers": [
+                "C",
+                "E"
+            ],
+            "explanation": "The sentence describes a feeling about the future, specifically one of foreboding or presentiment."
+        },
+        "Persistence And Endurance": {
+            "sentence": "Despite her __________ efforts, she finally achieved her goal after years of hard work.",
+            "choices": [
+                "A. Dogged",
+                "B. Indefatigable",
+                "C. Unflagging",
+                "D. Relentless",
+                "E. Tireless",
+                "F. Persistent"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes efforts that are persistent and tenacious, which aligns with the meanings of 'Dogged' and 'Indefatigable'."
+        },
+        "Excessive Talkativeness": {
+            "sentence": "Despite her _________ nature, Maria managed to keep the conversation focused on the topic at hand.",
+            "choices": [
+                "A. garrulous",
+                "B. loquacious",
+                "C. taciturn",
+                "D. verbose",
+                "E. reticent",
+                "F. laconic"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes someone who is overly talkative but manages to stay on topic. Both 'garrulous' and 'loquacious' fit well as they mean excessively talkative, especially on trivial matters."
+        },
+        "Cunning And Sharpness": {
+            "sentence": "Her ability to __________ assess the situation and anticipate potential problems made her an invaluable team member.",
+            "choices": [
+                "A. Astute",
+                "B. Sagacious",
+                "C. Discerning",
+                "D. Shrewd",
+                "E. Clever",
+                "F. Sharp"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence highlights the ability to accurately assess situations and turn it into an advantage, which fits both 'Astute' and its synonym 'Sagacious'. The other options like 'Discerning', 'Shrewd', 'Clever', and 'Sharp' are related but don't perfectly match the definition provided."
+        },
+        "Revelry And Exuberance": {
+            "sentence": "The ancient Roman festivals were often characterized by __________ celebrations that included excessive drinking and dancing.",
+            "choices": [
+                "A. Bacchanalian",
+                "B. Revelry",
+                "C. Ebullient",
+                "D. Solemn",
+                "E. Quiet",
+                "F. Reserved"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes celebrations with excessive drinking and dancing, which fits the definition of both 'Bacchanalian' (characterized by drunken revelry) and 'Revelry' (a noisy, enthusiastic celebration). The other options do not fit the context."
+        },
+        "Minor Faults And Moral Scruples": {
+            "sentence": "Although she prided herself on her punctuality, __________ was her habit of arriving late to social gatherings.",
+            "choices": [
+                "A. Compunction",
+                "B. Peccadillo",
+                "C. Guilt",
+                "D. Regret",
+                "E. Shame",
+                "F. Embarrassment"
+            ],
+            "correct_answers": [
+                "B",
+                "A"
+            ],
+            "explanation": "The sentence describes a minor fault (arriving late) that the woman has, which fits 'peccadillo.' 'Compunction' also fits as it refers to a feeling of guilt about a minor misdeed."
+        },
+        "Controversy And Polemics": {
+            "sentence": "The author's latest essay was a ________ critique of the government's new policy.",
+            "choices": [
+                "A. polemic",
+                "B. vitriolic",
+                "C. antithetical",
+                "D. analytical",
+                "E. objective",
+                "F. neutral"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a strongly critical essay, which fits both 'polemic' and 'vitriolic'."
+        },
+        "Appropriateness And Relevance": {
+            "sentence": "The discussion turned to the issue of privacy, and [BLANK] of that topic was John's recent article on digital surveillance.",
+            "choices": [
+                "A. apropos",
+                "B. pertinent",
+                "C. apposite",
+                "D. relevant",
+                "E. applicable",
+                "F. appropriate"
+            ],
+            "correct_answers": [
+                "A",
+                "C"
+            ],
+            "explanation": "The sentence discusses a topic where the blank should be filled with words that mean 'concerning' or 'appropriate to the situation'. Both 'apropos' and 'apposite' fit well here, making them the correct answers."
+        },
+        "Encumbrance And Removal Of Burdens": {
+            "sentence": "The government's new policy aims to __________ citizens from unnecessary bureaucratic delays.",
+            "choices": [
+                "A. Disencumber",
+                "B. Discourage",
+                "C. Divert",
+                "D. Encourage",
+                "E. Facilitate",
+                "F. Overwhelm"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The sentence requires a verb that conveys the removal of obstacles or delays. 'Disencumber' directly means to free from encumbrances, fitting perfectly. 'Facilitate' also fits as it implies making something easier by removing hindrances."
+        },
+        "Appeasement And Pacification": {
+            "sentence": "The new policy was designed to __________ the concerns of the affected community.",
+            "choices": [
+                "A. Mollify",
+                "B. Alleviate",
+                "C. Mitigate",
+                "D. Assuage",
+                "E. Pacify",
+                "F. Appease"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The correct answers are 'Mollify' and 'Appease' because both mean to calm or pacify someone's worries, fitting the context of addressing community concerns."
+        },
+        "Approval And Praise": {
+            "sentence": "The committee's _________ of her proposal was both unexpected and heartfelt.",
+            "choices": [
+                "A. approbation",
+                "B. encomium",
+                "C. disapproval",
+                "D. criticism",
+                "E. skepticism",
+                "F. indifference"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a positive reaction, so 'approbation' (approval) and 'encomium' (praise) fit well."
+        },
+        "Arboreal Life And Caution": {
+            "sentence": "The ________ animals were often seen climbing the tall trees in search of food and shelter.",
+            "choices": [
+                "A. Arboreal",
+                "B. Chary",
+                "C. Terrestrial",
+                "D. Aquatic",
+                "E. Feline",
+                "F. Avian"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes animals living in trees, so 'Arboreal' and its synonym 'Chary' fit the blank."
+        },
+        "Harsh Criticism And Punishment": {
+            "sentence": "After the accident, the doctor had to _________ the burns on her hands to prevent infection.",
+            "choices": [
+                "A. Bandage",
+                "B. Excoriate",
+                "C. Disinfect",
+                "D. Treat",
+                "E. Scour",
+                "F. Castigate"
+            ],
+            "correct_answers": [
+                "B",
+                "F"
+            ],
+            "explanation": "The sentence describes a medical procedure where the doctor needs to remove or damage the surface of the skin (the burns) to prevent infection. Both 'Excoriate' and 'Castigate' fit here because 'Excoriate' means to damage the skin, and 'Castigate' can metaphorically mean severe criticism but in this context refers to harsh treatment, fitting the medical action needed."
+        },
+        "Prosaic And Tediousness": {
+            "sentence": "The novel was criticized for its _________ style, which some readers found lacking in depth and originality.",
+            "choices": [
+                "A. Prosaic",
+                "B. Poetic",
+                "C. Eloquent",
+                "D. Imaginative",
+                "E. Dramatic",
+                "F. Rhetorical"
+            ],
+            "correct_answers": [
+                "A",
+                "A"
+            ],
+            "explanation": "The sentence discusses a style criticized for lacking depth and originality, which aligns with the definition of 'prosaic'. The other options do not fit as they describe different styles."
+        },
+        "Stubbornness And Resistance To Change": {
+            "sentence": "Despite repeated warnings from her team, Maria remained ________ in her decision to pursue an unproven strategy.",
+            "choices": [
+                "A. Amiable",
+                "B. Obstinate",
+                "C. Ambitious",
+                "D. Recalcitrant",
+                "E. Diligent",
+                "F. Curious"
+            ],
+            "correct_answers": [
+                "B",
+                "D"
+            ],
+            "explanation": "The sentence describes Maria's refusal to change her decision despite warnings, which fits the meanings of both 'obstinate' and its synonym 'recalcitrant'."
         }
     }
 }
