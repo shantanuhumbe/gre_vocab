@@ -68,3 +68,60 @@ def generate_mnemonic_and_enrichment(word, definition, api_key=None, engine="Oll
             return {"error": "Could not connect to Ollama. Make sure the Ollama app is running locally on port 11434."}
         except Exception as e:
             return {"error": f"Ollama Error: {str(e)}"}
+
+def verify_user_sentence(word, definition, user_sentence, api_key=None, engine="Ollama"):
+    """
+    Asks Ollama or Gemini to verify if the user's sentence uses the GRE word correctly.
+    """
+    prompt = f"""
+    You are a GRE Verbal coach. Analyze the following sentence written by a student.
+    Verify if the GRE word "{word}" is used correctly according to its definition: "{definition}".
+    
+    Student Sentence: "{user_sentence}"
+    
+    You must output your response in EXACTLY the following JSON format:
+    {{
+        "correct": true or false,
+        "feedback": "A short (1-2 sentences) explanation of why it is correct, or correcting the grammatical/context error if wrong."
+    }}
+    Do not output thinking tags (<think>...</think>), markdown, or any text other than the JSON string.
+    """
+    
+    if engine == "Gemini":
+        if not api_key:
+            return {"error": "Gemini API Key is missing."}
+        try:
+            genai.configure(api_key=api_key)
+            model = genai.GenerativeModel("gemini-2.5-flash")
+            response = model.generate_content(
+                prompt,
+                generation_config={"response_mime_type": "application/json"}
+            )
+            return json.loads(response.text)
+        except Exception as e:
+            return {"error": f"Gemini API Error: {str(e)}"}
+            
+    else:  # Ollama
+        url = "http://localhost:11434/api/generate"
+        payload = {
+            "model": "deepseek-r1:14b",
+            "prompt": prompt,
+            "stream": False,
+            "format": "json",
+            "options": {
+                "temperature": 0.3
+            }
+        }
+        try:
+            res = requests.post(url, json=payload, timeout=60)
+            if res.status_code == 200:
+                raw_response = res.json().get("response", "")
+                if "<think>" in raw_response:
+                    raw_response = raw_response.split("</think>")[-1].strip()
+                return json.loads(raw_response)
+            else:
+                return {"error": f"Ollama HTTP Error: {res.status_code}"}
+        except requests.exceptions.ConnectionError:
+            return {"error": "Could not connect to Ollama. Make sure Ollama is running."}
+        except Exception as e:
+            return {"error": f"Ollama Error: {str(e)}"}

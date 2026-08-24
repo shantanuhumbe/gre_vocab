@@ -6,7 +6,7 @@ import re
 import pandas as pd
 import plotly.graph_objects as go
 import database as db
-from utils.mnemonics import generate_mnemonic_and_enrichment
+from utils.mnemonics import generate_mnemonic_and_enrichment, verify_user_sentence
 from utils.verbal_generator import generate_verbal_question
 from utils.cluster_generator import run_ai_clustering
 
@@ -213,9 +213,11 @@ st.markdown("<div><span class='app-title'>GRE Vocabulary Spaced Repetition Locke
 st.markdown("Master high-frequency GRE words with active recall, spaced repetition, and dynamic verbal practice.", unsafe_allow_html=True)
 
 # Tabs navigation
-tab_cards, tab_groups, tab_practice, tab_analytics = st.tabs([
+tab_cards, tab_groups, tab_roots, tab_confusables, tab_practice, tab_analytics = st.tabs([
     "🗂️ Spaced Repetition Locker", 
     "📚 Synonym Groupings",
+    "🔑 Root Decoders",
+    "🔀 Confusables Locker",
     "⚔️ Practice Arena", 
     "📊 Progress Analytics"
 ])
@@ -223,16 +225,42 @@ tab_cards, tab_groups, tab_practice, tab_analytics = st.tabs([
 # Load reviews progress from SQLite DB
 reviewed_data = db.get_all_reviewed()
 
+# Import datetime for due calculations
+import datetime
+
 # ----------------- TABS: Leitner Flashcards Locker -----------------
 with tab_cards:
     # Filter selection
-    box_filter = st.selectbox("Select Study Box Filter", ["All", "Unstudied", "Box 1 (Hard)", "Box 2 (Medium)", "Box 3 (Easy)", "Box 4/5 (Mastered)"])
+    box_filter = st.selectbox("Select Study Box Filter", [
+        "All", 
+        "⏰ Due for Review (Spaced Repetition)", 
+        "⭐ Starred Words",
+        "Unstudied", 
+        "Box 1 (Hard)", 
+        "Box 2 (Medium)", 
+        "Box 3 (Easy)", 
+        "Box 4/5 (Mastered)"
+    ])
     
     # Compile candidate list of words based on box filters
     candidate_words = []
+    now_dt = datetime.datetime.now()
+    
     for w in base_words:
         progress = reviewed_data.get(w['word'])
         if box_filter == "All":
+            candidate_words.append(w)
+        elif box_filter == "⏰ Due for Review (Spaced Repetition)":
+            if progress:
+                next_review_str = progress.get('next_review_date')
+                if next_review_str:
+                    next_review_dt = datetime.datetime.fromisoformat(next_review_str)
+                    if next_review_dt <= now_dt:
+                        candidate_words.append(w)
+            else:
+                # Unstudied words are always due
+                candidate_words.append(w)
+        elif box_filter == "⭐ Starred Words" and progress and progress.get('starred', 0) == 1:
             candidate_words.append(w)
         elif box_filter == "Unstudied" and not progress:
             candidate_words.append(w)
@@ -317,6 +345,38 @@ with tab_cards:
                 st.markdown("</div>", unsafe_allow_html=True)
             else:
                 st.info("No memory aids generated yet for this word.")
+                
+            # Socratic Sentence Checker UI
+            st.markdown("<div class='glass-card' style='border-color: rgba(99, 102, 241, 0.4); margin-top: 15px;'>", unsafe_allow_html=True)
+            st.subheader("✍️ Socratic Sentence Writer")
+            st.write("Write your own sentence using this word to test your active recall and get AI feedback!")
+            user_sentence = st.text_input("Enter your sentence:", key=f"user_sent_{word_text}")
+            if st.button("🔍 Check Sentence with AI", key=f"btn_chk_{word_text}", use_container_width=True):
+                if not user_sentence.strip():
+                    st.warning("Please type a sentence first!")
+                else:
+                    with st.spinner("AI coach is evaluating your sentence context..."):
+                        engine_val = "Gemini" if engine == "Gemini (Cloud)" else "Ollama"
+                        eval_res = verify_user_sentence(word_text, base_definition, user_sentence, gemini_api_key, engine_val)
+                        if "error" in eval_res:
+                            st.error(eval_res["error"])
+                        else:
+                            st.session_state[f"feedback_{word_text}"] = eval_res
+                            
+            # Display feedback
+            fb_key = f"feedback_{word_text}"
+            if fb_key in st.session_state:
+                res = st.session_state[fb_key]
+                if res.get("correct"):
+                    st.success(f"🎉 **Correct Context!**\n\n{res.get('feedback')}")
+                    # Auto promote word progress in Leitner system on correct sentence creation!
+                    if not st.session_state.get(f"promoted_{word_text}"):
+                        db.update_word_progress(word_text, is_correct=True)
+                        st.session_state[f"promoted_{word_text}"] = True
+                        st.balloons()
+                else:
+                    st.error(f"❌ **Incorrect Context or Grammar:**\n\n{res.get('feedback')}")
+            st.markdown("</div>", unsafe_allow_html=True)
                 
             # Starred button & AI generation button
             col_act1, col_act2 = st.columns(2)
@@ -523,7 +583,165 @@ with tab_groups:
                             st.session_state.quiz_answered = False
                             st.session_state.quiz_target_word = rand_word_item['word']
                             st.success(f"Generated Sentence Equivalence question for **{rand_word_item['word']}**! Go to the **Practice Arena** tab below to solve it.")
+# ----------------- TABS: Root Decoders -----------------
+with tab_roots:
+    st.markdown("### 🔑 Greek & Latin Root Decoders")
+    st.write("Reinforce vocabulary structure by studying word families connected by historical roots. Master the roots to unlock unfamiliar words!")
+    
+    ROOTS_DICTIONARY = {
+        "loqu / locut": {"meaning": "speak, talk", "examples": ["loquacious", "eloquent", "circumlocution", "colloquial"]},
+        "pugn": {"meaning": "fight, fist", "examples": ["pugnacious", "repugnant"]},
+        "anim": {"meaning": "mind, soul, spirit, life", "examples": ["magnanimous", "animosity", "pusillanimous", "equanimity", "animated"]},
+        "mal": {"meaning": "bad, evil", "examples": ["malevolent", "malign", "malfeasance", "malady"]},
+        "bene": {"meaning": "good, well", "examples": ["benevolent", "beneficent", "benediction", "beneficial"]},
+        "ver": {"meaning": "truth", "examples": ["verity", "veracious", "aver", "veracity"]},
+        "plac": {"meaning": "please, calm", "examples": ["placate", "implacable", "complacent", "complaisant"]},
+        "luc / lum": {"meaning": "light, clear", "examples": ["elucidate", "lucid", "luminous", "luminary"]},
+        "bell": {"meaning": "war", "examples": ["bellicose", "belligerent"]},
+        "chron": {"meaning": "time", "examples": ["anachronism", "chronic", "chronology"]},
+        "path": {"meaning": "feeling, suffering, disease", "examples": ["apathy", "antipathy", "sympathy", "empathy"]},
+        "tort": {"meaning": "twist", "examples": ["contort", "distort", "tortuous", "extort"]},
+        "greg": {"meaning": "flock, gather, herd", "examples": ["gregarious", "aggregate", "egregious"]},
+        "cap / cip / cept": {"meaning": "take, hold, seize", "examples": ["captious", "cipient", "intercept", "recipient"]},
+        "aud": {"meaning": "hear, listen", "examples": ["audacious", "audible", "auditory"]},
+    }
+    
+    # 2-column layout: selector on left, list of matched words on right
+    col_roots_l, col_roots_r = st.columns([1, 2])
+    
+    with col_roots_l:
+        selected_root = st.selectbox("Select a Root to Decode:", list(ROOTS_DICTIONARY.keys()))
+        root_data = ROOTS_DICTIONARY[selected_root]
+        st.markdown(f"""
+        <div class='glass-card' style='border-color: rgba(99, 102, 241, 0.5);'>
+            <h3 style='margin: 0; color: #6366F1;'>Root: {selected_root}</h3>
+            <p style='color: #E5E7EB; font-weight: bold;'>Meaning: "{root_data['meaning']}"</p>
+            <p style='color: #9CA3AF; font-size: 0.9rem;'>Common Examples: {", ".join(root_data['examples'])}</p>
+        </div>
+        """, unsafe_allow_html=True)
+        
+    with col_roots_r:
+        # Search base_words for occurrences containing the root
+        sub_roots = [r.strip() for r in selected_root.split("/")]
+        matched_root_words = []
+        for w_item in base_words:
+            word_lower = w_item["word"].lower()
+            if any(sr in word_lower for sr in sub_roots):
+                matched_root_words.append(w_item)
+                
+        st.markdown(f"##### Words in Your Database Matching '{selected_root}' ({len(matched_root_words)} found):")
+        if not matched_root_words:
+            st.info("No matching words in the current high-frequency list.")
+        else:
+            for item in sorted(matched_root_words, key=lambda x: x["word"]):
+                # Highlight if mastered
+                p = reviewed_data.get(item["word"])
+                mastery_badge = "✅" if p and p.get("box", 1) in [4, 5] else "🔹"
+                st.markdown(f"{mastery_badge} **{item['word']}** *({item.get('part_of_speech', 'noun')})* — {item['definition']}")
 
+# ----------------- TABS: Confusables Locker -----------------
+with tab_confusables:
+    st.markdown("### 🔀 Confusables Locker")
+    st.write("The GRE loves to trap students with words that look or sound almost identical but mean completely different things. Study these pairs and test your precision!")
+    
+    CONFUSABLE_PAIRS = [
+        ("complacent", "complaisant", "Complacent means smug, self-satisfied, or unconcerned. Complaisant means eager to please, obliging, or polite."),
+        ("venal", "venerable", "Venal means corruptible or open to bribery. Venerable means worthy of deep respect due to age, wisdom, or character."),
+        ("chary", "wary", "Chary means cautious or hesitant to do something (often out of shyness or frugality). Wary means watchful and alert to danger."),
+        ("prevaricate", "procrastinate", "Prevaricate means to speak evasively or avoid telling the truth. Procrastinate means to delay or postpone action."),
+        ("disinterested", "uninterested", "Disinterested means impartial, unbiased, or neutral. Uninterested means bored, indifferent, or lacking interest."),
+        ("officious", "official", "Officious means meddlesome, intrusive, or offering unwanted help. Official means authorized or formal."),
+        ("capricious", "contentious", "Capricious means unpredictable, impulsive, or prone to sudden changes. Contentious means controversial or argumentative."),
+        ("aesthetic", "ascetic", "Aesthetic concerns beauty or art appreciation. Ascetic refers to severe self-discipline and abstention from all forms of indulgence."),
+        ("perfunctory", "peremptory", "Perfunctory means carried out with minimal effort or reflection. Peremptory means insisting on immediate attention or obedience, dictatorial.")
+    ]
+    
+    conf_mode = st.radio("Locker Workspace", ["Study Pairs", "Accuracy Quiz"], horizontal=True, key="conf_mode_select")
+    
+    if conf_mode == "Study Pairs":
+        st.markdown("##### 📁 Confusing Word Pairs Definition Deck")
+        
+        # Grid of confusing pairs
+        cols = st.columns(3)
+        for idx, (w1, w2, explanation) in enumerate(CONFUSABLE_PAIRS):
+            col = cols[idx % 3]
+            
+            # Find definitions
+            def1, def2 = "Not in database", "Not in database"
+            for b in base_words:
+                if b["word"].lower().strip() == w1:
+                    def1 = b["definition"]
+                if b["word"].lower().strip() == w2:
+                    def2 = b["definition"]
+                    
+            col.markdown(f"""
+            <div class='glass-card' style='border-color: rgba(239, 68, 68, 0.3); padding: 15px; margin-bottom: 15px; min-height: 250px;'>
+                <h4 style='color: #EF4444; margin-top: 0;'>🥊 {w1.title()} vs {w2.title()}</h4>
+                <p style='font-size: 0.85rem;'><b>{w1.title()}:</b> {def1}</p>
+                <p style='font-size: 0.85rem;'><b>{w2.title()}:</b> {def2}</p>
+                <hr style='border:0; border-top:1px solid rgba(255,255,255,0.05); margin: 10px 0;'/>
+                <p style='color: #9CA3AF; font-size: 0.8rem; font-style: italic;'>{explanation}</p>
+            </div>
+            """, unsafe_allow_html=True)
+            
+    else:  # Accuracy Quiz
+        st.markdown("##### 🎯 Accuracy Test: Distinguish the Confusables")
+        st.write("Match the correct word to its definition to build bulletproof precision!")
+        
+        # Initialize quiz state
+        if "conf_quiz_item" not in st.session_state:
+            # Pick a random pair
+            pair = random.choice(CONFUSABLE_PAIRS)
+            # Pick a random word from the pair
+            target_word = random.choice([pair[0], pair[1]])
+            # Get true definition
+            true_def = ""
+            for b in base_words:
+                if b["word"].lower().strip() == target_word:
+                    true_def = b["definition"]
+                    break
+            if not true_def:
+                true_def = "Definition not found in base list."
+                
+            st.session_state.conf_quiz_item = {
+                "pair": pair,
+                "target_word": target_word,
+                "definition": true_def,
+                "options": [pair[0], pair[1]],
+                "answered": False,
+                "correct": False
+            }
+            
+        q = st.session_state.conf_quiz_item
+        
+        st.markdown(f"""
+        <div class='glass-card' style='border-color: rgba(99, 102, 241, 0.4); padding: 20px;'>
+            <h4>Identify the correct word matching this definition:</h4>
+            <p style='font-size: 1.1rem; color: #FFF; font-style: italic;'>"{q['definition']}"</p>
+        </div>
+        """, unsafe_allow_html=True)
+        
+        # Choice input
+        choice = st.radio("Which word matches?", [w.title() for w in q["options"]], key="conf_choice_input")
+        
+        if st.button("Submit Answer", type="primary", key="conf_quiz_submit"):
+            q["answered"] = True
+            if choice.lower().strip() == q["target_word"].lower().strip():
+                q["correct"] = True
+            else:
+                q["correct"] = False
+                
+        if q["answered"]:
+            if q["correct"]:
+                st.success(f"🎉 **Correct!** **{q['target_word'].title()}** matches the definition.")
+                st.balloons()
+            else:
+                st.error(f"❌ **Incorrect.** The correct word is **{q['target_word'].title()}**.")
+                st.info(f"💡 **Memory Aid:** {q['pair'][2]}")
+                
+            if st.button("Next Question", key="conf_quiz_next"):
+                del st.session_state.conf_quiz_item
+                st.rerun()
 # ----------------- TABS: GRE Practice Arena -----------------
 with tab_practice:
     st.markdown("### ⚔️ GRE Practice Arena")

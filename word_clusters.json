@@ -1,0 +1,4284 @@
+{
+    "word_clusters": [
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Abate",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Abase",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Audacious",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Cajolery",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Ephemeral",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Exonerate",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Formidable",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Hostility",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Hubris",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Inquisition",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Lewd",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Mundane",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Ode",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Palliative",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Panacea",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Placebo",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Prophylactic",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Recondite",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Refractory",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Repentance",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Reprimand",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Reproach",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Scorn",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Negative Emotions And Behaviors",
+            "word": "Tirade",
+            "description": "Words related to negative emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Adulation",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Audacious",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Exalt",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Eulogy",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Guild",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Inquest",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Intangible",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Incorporeal",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Lewd",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Mundane",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Ode",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Pithy",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Placebo",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Prophylactic",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Recondite",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Recumbent",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Redoubtable",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Positive Emotions And Behaviors",
+            "word": "Sonnet",
+            "description": "Words related to positive emotions and behaviors."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Abate",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Abase",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Audacious",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Cajolery",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Ephemeral",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Exonerate",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Formidable",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Hostility",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Hubris",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Inquisition",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Lewd",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Mundane",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Ode",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Palliative",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Panacea",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Placebo",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Prophylactic",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Recondite",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Refractory",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Repentance",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Reprimand",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Reproach",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Scorn",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Mental State",
+            "word": "Tirade",
+            "description": "Words describing different mental states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Abate",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Abase",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Audacious",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Cajolery",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Ephemeral",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Exonerate",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Formidable",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Hostility",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Hubris",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Inquisition",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Lewd",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Mundane",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Ode",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Palliative",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Panacea",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Placebo",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Prophylactic",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Recondite",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Refractory",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Repentance",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Reprimand",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Reproach",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Scorn",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Physical States",
+            "word": "Tirade",
+            "description": "Words related to physical states or conditions."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Abate",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Abase",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Audacious",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Cajolery",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Ephemeral",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Exonerate",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Formidable",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Hostility",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Hubris",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Inquisition",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Lewd",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Mundane",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Ode",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Palliative",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Panacea",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Placebo",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Prophylactic",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Recondite",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Refractory",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Repentance",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Reprimand",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Reproach",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Scorn",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Social Interactions",
+            "word": "Tirade",
+            "description": "Words related to social interactions and relationships."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Abate",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Abase",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Audacious",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Cajolery",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Ephemeral",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Exonerate",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Formidable",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Hostility",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Hubris",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Inquisition",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Lewd",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Mundane",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Ode",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Palliative",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Panacea",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Placebo",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Prophylactic",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Recondite",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Refractory",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Repentance",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Reprimand",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Reproach",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Scorn",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Groups Based On Abstract Concepts",
+            "word": "Tirade",
+            "description": "Words related to abstract concepts or ideas."
+        },
+        {
+            "cluster_name": "Proverbial Sayings",
+            "word": "Proverb",
+            "description": "Words that are short, well-known sayings providing general truths or advice."
+        },
+        {
+            "cluster_name": "Proverbial Sayings",
+            "word": "Aphorism",
+            "description": "Words that are short, well-known sayings providing general truths or advice."
+        },
+        {
+            "cluster_name": "Negative Emotions And States",
+            "word": "Bane",
+            "description": "Words describing negative emotions or states of being."
+        },
+        {
+            "cluster_name": "Negative Emotions And States",
+            "word": "Awry",
+            "description": "Words describing negative emotions or states of being."
+        },
+        {
+            "cluster_name": "Negative Emotions And States",
+            "word": "Aberrant",
+            "description": "Words describing negative emotions or states of being."
+        },
+        {
+            "cluster_name": "Negative Emotions And States",
+            "word": "Craven",
+            "description": "Words describing negative emotions or states of being."
+        },
+        {
+            "cluster_name": "Negative Emotions And States",
+            "word": "Pernicious",
+            "description": "Words describing negative emotions or states of being."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Epigraph",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Hyperbole",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Panegyric",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Epitaph",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Epistle",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Epithet",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Epitome",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Simile",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Metaphor",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Language And Literature",
+            "word": "Epilogue",
+            "description": "Terms related to language, literature, and written works."
+        },
+        {
+            "cluster_name": "Actions Of Persuasion And Influence",
+            "word": "Coax",
+            "description": "Words describing actions to persuade or influence others."
+        },
+        {
+            "cluster_name": "Actions Of Persuasion And Influence",
+            "word": "Titillate",
+            "description": "Words describing actions to persuade or influence others."
+        },
+        {
+            "cluster_name": "Actions Of Persuasion And Influence",
+            "word": "Lampoon",
+            "description": "Words describing actions to persuade or influence others."
+        },
+        {
+            "cluster_name": "Actions Of Persuasion And Influence",
+            "word": "Disenchant",
+            "description": "Words describing actions to persuade or influence others."
+        },
+        {
+            "cluster_name": "Abandonment And Usurpation",
+            "word": "Abdicate",
+            "description": "Terms related to giving up power or taking it illegally."
+        },
+        {
+            "cluster_name": "Abandonment And Usurpation",
+            "word": "Usurp",
+            "description": "Terms related to giving up power or taking it illegally."
+        },
+        {
+            "cluster_name": "Means Of Acquisition",
+            "word": "Scrounge",
+            "description": "Words describing ways to obtain something, often with difficulty."
+        },
+        {
+            "cluster_name": "Criticism And Ridicule",
+            "word": "Lampoon",
+            "description": "Terms related to criticizing or ridiculing others."
+        },
+        {
+            "cluster_name": "Criticism And Ridicule",
+            "word": "Iconoclast",
+            "description": "Terms related to criticizing or ridiculing others."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Toady",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Obsequious",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Libertine",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Licentious",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Etiquette",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Coddle",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Deference",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Courteous",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Impassive",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Pedantry",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Meticulous",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Social Behavior And Interaction",
+            "word": "Potent",
+            "description": "Words describing social behaviors, including obsequiousness and libertinism."
+        },
+        {
+            "cluster_name": "Philosophical Concepts",
+            "word": "Axiom",
+            "description": "Terms related to philosophical principles or beliefs."
+        },
+        {
+            "cluster_name": "Philosophical Concepts",
+            "word": "Orthodox",
+            "description": "Terms related to philosophical principles or beliefs."
+        },
+        {
+            "cluster_name": "Philosophical Concepts",
+            "word": "Traditionalist",
+            "description": "Terms related to philosophical principles or beliefs."
+        },
+        {
+            "cluster_name": "Philosophical Concepts",
+            "word": "Conformist",
+            "description": "Terms related to philosophical principles or beliefs."
+        },
+        {
+            "cluster_name": "Philosophical Concepts",
+            "word": "Epicureanism",
+            "description": "Terms related to philosophical principles or beliefs."
+        },
+        {
+            "cluster_name": "Philosophical Concepts",
+            "word": "Deontological",
+            "description": "Terms related to philosophical principles or beliefs."
+        },
+        {
+            "cluster_name": "Philosophical Concepts",
+            "word": "Consequentialist",
+            "description": "Terms related to philosophical principles or beliefs."
+        },
+        {
+            "cluster_name": "Scientific And Theoretical Constructs",
+            "word": "Hypothesis",
+            "description": "Words describing hypotheses, premises, and theories."
+        },
+        {
+            "cluster_name": "Scientific And Theoretical Constructs",
+            "word": "Premise",
+            "description": "Words describing hypotheses, premises, and theories."
+        },
+        {
+            "cluster_name": "States Of Being And Characteristics",
+            "word": "Frail",
+            "description": "Terms describing physical or mental states and characteristics."
+        },
+        {
+            "cluster_name": "States Of Being And Characteristics",
+            "word": "Diminutive",
+            "description": "Terms describing physical or mental states and characteristics."
+        },
+        {
+            "cluster_name": "States Of Being And Characteristics",
+            "word": "Baleful",
+            "description": "Terms describing physical or mental states and characteristics."
+        },
+        {
+            "cluster_name": "Temporary And Transient States",
+            "word": "Fleeting",
+            "description": "Words indicating something that is temporary or fleeting."
+        },
+        {
+            "cluster_name": "Publications And Media",
+            "word": "Tabloid",
+            "description": "Terms related to publications, especially sensational ones."
+        },
+        {
+            "cluster_name": "Publications And Media",
+            "word": "Harangue",
+            "description": "Terms related to publications, especially sensational ones."
+        },
+        {
+            "cluster_name": "Naivety And Simplicity",
+            "word": "Jejune",
+            "description": "Words describing naivety or simplicity in ideas or expressions."
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Credo",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Epitome",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Abeyance",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Recess",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Banal",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Cliche",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Credulous",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Cynical",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Idiosyncrasy",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Eccentric",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Casting Couch",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Puritanical",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Prudish",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Parity",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Aristocracy",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Refulgent",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Vigor",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Slumber",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Torpor",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Perturb",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Obscure",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Impasse",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Indent",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Avarice",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Stimulator",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Intricate",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Suture",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Scalpel",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Corral",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Evasive",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Maverick",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Bourgeois",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Diaphanous",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Exult",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Buttress",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Burnish",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Theist",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Sedition",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Alacrity",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 1",
+            "word": "Vicissitude",
+            "description": "Beliefs and Principles"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Paragon",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Zenith",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Witty",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Adversarial",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Martinet",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Sanguine",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Phlegmatic",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Omnivert",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Consonance",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Pessimist",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Lowbrow",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Proletariat",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Commiseration",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Gregarious",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 2",
+            "word": "Plausible",
+            "description": "Excellence and Perfection"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Torpid",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Stifle",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Bootlicker",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Sycophant",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Detractor",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Socialism",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Populist",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Ethereal",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Veil",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Deplore",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Bovine",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Lupine",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Porcine",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Ovine",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 3",
+            "word": "Vicarious",
+            "description": "Inactivity and Lethargy"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Voracious",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Credulous",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Deterrent",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Oblivious",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Placid",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Diatribe",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Maudlin",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Grave",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Amenable",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Docile",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Tuxedo",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Whip",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Lasso",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 4",
+            "word": "Dilatory",
+            "description": "Wanting or Devouring"
+        },
+        {
+            "cluster_name": "Group Name 5",
+            "word": "Seize",
+            "description": "Taking Hold Forcibly"
+        },
+        {
+            "cluster_name": "Group Name 5",
+            "word": "Abjure",
+            "description": "Taking Hold Forcibly"
+        },
+        {
+            "cluster_name": "Group Name 5",
+            "word": "Extol",
+            "description": "Taking Hold Forcibly"
+        },
+        {
+            "cluster_name": "Group Name 5",
+            "word": "Mercurial",
+            "description": "Taking Hold Forcibly"
+        },
+        {
+            "cluster_name": "Group Name 6",
+            "word": "Fable",
+            "description": "Narrative Styles and Stories"
+        },
+        {
+            "cluster_name": "Group Name 6",
+            "word": "Allegory",
+            "description": "Narrative Styles and Stories"
+        },
+        {
+            "cluster_name": "Group Name 6",
+            "word": "Anecdote",
+            "description": "Narrative Styles and Stories"
+        },
+        {
+            "cluster_name": "Group Name 6",
+            "word": "Marshal",
+            "description": "Narrative Styles and Stories"
+        },
+        {
+            "cluster_name": "Group Name 6",
+            "word": "Pore",
+            "description": "Narrative Styles and Stories"
+        },
+        {
+            "cluster_name": "Group Name 7",
+            "word": "Reprobate",
+            "description": "Unprincipled or Shallow Individuals"
+        },
+        {
+            "cluster_name": "Group Name 7",
+            "word": "Dilettante",
+            "description": "Unprincipled or Shallow Individuals"
+        },
+        {
+            "cluster_name": "Group Name 7",
+            "word": "Philtre",
+            "description": "Unprincipled or Shallow Individuals"
+        },
+        {
+            "cluster_name": "Group Name 7",
+            "word": "Fatuous",
+            "description": "Unprincipled or Shallow Individuals"
+        },
+        {
+            "cluster_name": "Group Name 7",
+            "word": "Plebeian",
+            "description": "Unprincipled or Shallow Individuals"
+        },
+        {
+            "cluster_name": "Group Name 8",
+            "word": "Compliant",
+            "description": "Compliance and Obedience"
+        },
+        {
+            "cluster_name": "Group Name 8",
+            "word": "Malleable",
+            "description": "Compliance and Obedience"
+        },
+        {
+            "cluster_name": "Group Name 8",
+            "word": "Ductile",
+            "description": "Compliance and Obedience"
+        },
+        {
+            "cluster_name": "Group Name 8",
+            "word": "Veracious",
+            "description": "Compliance and Obedience"
+        },
+        {
+            "cluster_name": "Group Name 8",
+            "word": "Radical",
+            "description": "Compliance and Obedience"
+        },
+        {
+            "cluster_name": "Group Name 9",
+            "word": "Divulge",
+            "description": "Revelation of Information"
+        },
+        {
+            "cluster_name": "Group Name 9",
+            "word": "Abeyance",
+            "description": "Revelation of Information"
+        },
+        {
+            "cluster_name": "Group Name 9",
+            "word": "Extort",
+            "description": "Revelation of Information"
+        },
+        {
+            "cluster_name": "Group Name 9",
+            "word": "Alibi",
+            "description": "Revelation of Information"
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Animosity",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Affable",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Fidget",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Beguile",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Rambunctious",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Treacherous",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Misanthrope",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Inhibition",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Emotion And Behavior",
+            "word": "Jittery",
+            "description": "Words related to emotions and behavioral traits."
+        },
+        {
+            "cluster_name": "Communication And Expression",
+            "word": "Connote",
+            "description": "Words related to communication styles and expressive behaviors."
+        },
+        {
+            "cluster_name": "Communication And Expression",
+            "word": "Sporadic",
+            "description": "Words related to communication styles and expressive behaviors."
+        },
+        {
+            "cluster_name": "Communication And Expression",
+            "word": "Braggart",
+            "description": "Words related to communication styles and expressive behaviors."
+        },
+        {
+            "cluster_name": "Communication And Expression",
+            "word": "Jabber",
+            "description": "Words related to communication styles and expressive behaviors."
+        },
+        {
+            "cluster_name": "Communication And Expression",
+            "word": "Dullard",
+            "description": "Words related to communication styles and expressive behaviors."
+        },
+        {
+            "cluster_name": "Communication And Expression",
+            "word": "Verbosity",
+            "description": "Words related to communication styles and expressive behaviors."
+        },
+        {
+            "cluster_name": "Communication And Expression",
+            "word": "Jargon",
+            "description": "Words related to communication styles and expressive behaviors."
+        },
+        {
+            "cluster_name": "Cognition And Intelligence",
+            "word": "Acumen",
+            "description": "Words related to mental acuity, judgment, and knowledge."
+        },
+        {
+            "cluster_name": "Cognition And Intelligence",
+            "word": "Judicious",
+            "description": "Words related to mental acuity, judgment, and knowledge."
+        },
+        {
+            "cluster_name": "Cognition And Intelligence",
+            "word": "Arcane",
+            "description": "Words related to mental acuity, judgment, and knowledge."
+        },
+        {
+            "cluster_name": "Cognition And Intelligence",
+            "word": "Eloquence",
+            "description": "Words related to mental acuity, judgment, and knowledge."
+        },
+        {
+            "cluster_name": "Perception And Sensory Experience",
+            "word": "Tacit",
+            "description": "Words related to perception, observation, and sensory experiences."
+        },
+        {
+            "cluster_name": "Perception And Sensory Experience",
+            "word": "Breezy",
+            "description": "Words related to perception, observation, and sensory experiences."
+        },
+        {
+            "cluster_name": "Perception And Sensory Experience",
+            "word": "Dexterous",
+            "description": "Words related to perception, observation, and sensory experiences."
+        },
+        {
+            "cluster_name": "Perception And Sensory Experience",
+            "word": "Abrade",
+            "description": "Words related to perception, observation, and sensory experiences."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Aberration",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Perjury",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Satiate",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Fidelity",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Psychosis",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Ameliorate",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Wanton",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Inordinate",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Implacable",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Exculpate",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Vindicate",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Moribund",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Malfeasance",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Profane",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "Moral And Ethical Concepts",
+            "word": "Sacrosanct",
+            "description": "Words related to moral values, ethics, and societal norms."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Abscond",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Salvage",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Inane",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Erratic",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Noxious",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Futile",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Bereft",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Penurious",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Superfluous",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Improvident",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Besiege",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "States Of Being And Conditions",
+            "word": "Abysmal",
+            "description": "Words describing states or conditions of being."
+        },
+        {
+            "cluster_name": "Time And Temporal Concepts",
+            "word": "Retrospective",
+            "description": "Words related to time, duration, and temporal aspects."
+        },
+        {
+            "cluster_name": "Social Interactions And Relationships",
+            "word": "Luminary",
+            "description": "Words related to social interactions and interpersonal relationships."
+        },
+        {
+            "cluster_name": "Social Interactions And Relationships",
+            "word": "Harbinger",
+            "description": "Words related to social interactions and interpersonal relationships."
+        },
+        {
+            "cluster_name": "Social Interactions And Relationships",
+            "word": "Conflate",
+            "description": "Words related to social interactions and interpersonal relationships."
+        },
+        {
+            "cluster_name": "Emotion And Attitudes",
+            "word": "Ambivalent",
+            "description": "Words related to emotions, feelings, and attitudes."
+        },
+        {
+            "cluster_name": "Emotion And Attitudes",
+            "word": "Grim",
+            "description": "Words related to emotions, feelings, and attitudes."
+        },
+        {
+            "cluster_name": "Emotion And Attitudes",
+            "word": "Wanton",
+            "description": "Words related to emotions, feelings, and attitudes."
+        },
+        {
+            "cluster_name": "Emotion And Attitudes",
+            "word": "Vivacious",
+            "description": "Words related to emotions, feelings, and attitudes."
+        },
+        {
+            "cluster_name": "Emotion And Attitudes",
+            "word": "Chortle",
+            "description": "Words related to emotions, feelings, and attitudes."
+        },
+        {
+            "cluster_name": "Emotion And Attitudes",
+            "word": "Wince",
+            "description": "Words related to emotions, feelings, and attitudes."
+        },
+        {
+            "cluster_name": "Emotion And Attitudes",
+            "word": "Disdainful",
+            "description": "Words related to emotions, feelings, and attitudes."
+        },
+        {
+            "cluster_name": "Emotion And Attitudes",
+            "word": "Haughty",
+            "description": "Words related to emotions, feelings, and attitudes."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Tractable",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Voluble",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Implacable",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Intransigent",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Indomitable",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Pliant",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Malevolent",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Xenophile",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Imperious",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Penchant",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Tyro",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Circumspect",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Gingerly",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Behavioral Traits",
+            "word": "Arrant",
+            "description": "Words describing behavioral characteristics or personality traits."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Colloquial",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Articulate",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Esoteric",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Grandiloquent",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Lambast",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Excursive",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Devious",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Incriminate",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Implicate",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Vernacular",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Language And Communication",
+            "word": "Jive",
+            "description": "Terms related to language use, communication styles, and discourse."
+        },
+        {
+            "cluster_name": "Cognition And Intellect",
+            "word": "Connoisseur",
+            "description": "Words pertaining to mental processes, knowledge, and understanding."
+        },
+        {
+            "cluster_name": "Cognition And Intellect",
+            "word": "Abstruse",
+            "description": "Words pertaining to mental processes, knowledge, and understanding."
+        },
+        {
+            "cluster_name": "Cognition And Intellect",
+            "word": "Esoteric",
+            "description": "Words pertaining to mental processes, knowledge, and understanding."
+        },
+        {
+            "cluster_name": "Cognition And Intellect",
+            "word": "Exculpate",
+            "description": "Words pertaining to mental processes, knowledge, and understanding."
+        },
+        {
+            "cluster_name": "Cognition And Intellect",
+            "word": "Vindicate",
+            "description": "Words pertaining to mental processes, knowledge, and understanding."
+        },
+        {
+            "cluster_name": "Cognition And Intellect",
+            "word": "Implacable",
+            "description": "Words pertaining to mental processes, knowledge, and understanding."
+        },
+        {
+            "cluster_name": "Cognition And Intellect",
+            "word": "Ineptitude",
+            "description": "Words pertaining to mental processes, knowledge, and understanding."
+        },
+        {
+            "cluster_name": "Cognition And Intellect",
+            "word": "Coalesce",
+            "description": "Words pertaining to mental processes, knowledge, and understanding."
+        },
+        {
+            "cluster_name": "Social Dynamics",
+            "word": "Partisan",
+            "description": "Terms related to social interactions, relationships, and group behaviors."
+        },
+        {
+            "cluster_name": "Social Dynamics",
+            "word": "Pungent",
+            "description": "Terms related to social interactions, relationships, and group behaviors."
+        },
+        {
+            "cluster_name": "Social Dynamics",
+            "word": "Ossified",
+            "description": "Terms related to social interactions, relationships, and group behaviors."
+        },
+        {
+            "cluster_name": "Social Dynamics",
+            "word": "Timid",
+            "description": "Terms related to social interactions, relationships, and group behaviors."
+        },
+        {
+            "cluster_name": "Social Dynamics",
+            "word": "Gerontocracy",
+            "description": "Terms related to social interactions, relationships, and group behaviors."
+        },
+        {
+            "cluster_name": "Physical And Sensory Attributes",
+            "word": "Palate",
+            "description": "Terms related to physical characteristics or sensory experiences."
+        },
+        {
+            "cluster_name": "Physical And Sensory Attributes",
+            "word": "Pungent",
+            "description": "Terms related to physical characteristics or sensory experiences."
+        },
+        {
+            "cluster_name": "Physical And Sensory Attributes",
+            "word": "Ambrosial",
+            "description": "Terms related to physical characteristics or sensory experiences."
+        },
+        {
+            "cluster_name": "Actions And Processes",
+            "word": "Incumbent",
+            "description": "Words describing actions, processes, or states of being."
+        },
+        {
+            "cluster_name": "Actions And Processes",
+            "word": "Coalesce",
+            "description": "Words describing actions, processes, or states of being."
+        },
+        {
+            "cluster_name": "Actions And Processes",
+            "word": "Wince",
+            "description": "Words describing actions, processes, or states of being."
+        },
+        {
+            "cluster_name": "Actions And Processes",
+            "word": "Exculpate",
+            "description": "Words describing actions, processes, or states of being."
+        },
+        {
+            "cluster_name": "Actions And Processes",
+            "word": "Incorrigible",
+            "description": "Words describing actions, processes, or states of being."
+        },
+        {
+            "cluster_name": "Actions And Processes",
+            "word": "Insurmountable",
+            "description": "Words describing actions, processes, or states of being."
+        },
+        {
+            "cluster_name": "Actions And Processes",
+            "word": "Ossified",
+            "description": "Words describing actions, processes, or states of being."
+        },
+        {
+            "cluster_name": "States And Conditions",
+            "word": "Abstruse",
+            "description": "Terms describing states, conditions, or qualities."
+        },
+        {
+            "cluster_name": "States And Conditions",
+            "word": "Inmoderate",
+            "description": "Terms describing states, conditions, or qualities."
+        },
+        {
+            "cluster_name": "States And Conditions",
+            "word": "Inordinate",
+            "description": "Terms describing states, conditions, or qualities."
+        },
+        {
+            "cluster_name": "States And Conditions",
+            "word": "Implacable",
+            "description": "Terms describing states, conditions, or qualities."
+        },
+        {
+            "cluster_name": "States And Conditions",
+            "word": "Tenacity",
+            "description": "Terms describing states, conditions, or qualities."
+        },
+        {
+            "cluster_name": "States And Conditions",
+            "word": "Fallacious",
+            "description": "Terms describing states, conditions, or qualities."
+        },
+        {
+            "cluster_name": "States And Conditions",
+            "word": "Moribund",
+            "description": "Terms describing states, conditions, or qualities."
+        },
+        {
+            "cluster_name": "Intuition And Foreboding",
+            "word": "Presentiment",
+            "description": "Words related to intuition and\u9884\u611f"
+        },
+        {
+            "cluster_name": "Intuition And Foreboding",
+            "word": "Forebode",
+            "description": "Words related to intuition and\u9884\u611f"
+        },
+        {
+            "cluster_name": "Persistence And Endurance",
+            "word": "Dogged",
+            "description": "Terms describing persistent or tireless effort"
+        },
+        {
+            "cluster_name": "Persistence And Endurance",
+            "word": "Indefatigable",
+            "description": "Terms describing persistent or tireless effort"
+        },
+        {
+            "cluster_name": "Persistence And Endurance",
+            "word": "Unflagging",
+            "description": "Terms describing persistent or tireless effort"
+        },
+        {
+            "cluster_name": "Excessive Talkativeness",
+            "word": "Garrulous",
+            "description": "Words that describe being overly talkative"
+        },
+        {
+            "cluster_name": "Excessive Talkativeness",
+            "word": "Loquacious",
+            "description": "Words that describe being overly talkative"
+        },
+        {
+            "cluster_name": "Triviality And Lack Of Importance",
+            "word": "Trivial",
+            "description": "Words indicating something trivial or unimportant"
+        },
+        {
+            "cluster_name": "Cunning And Sharpness",
+            "word": "Astute",
+            "description": "Terms related to being astute or sharp in perception"
+        },
+        {
+            "cluster_name": "Cunning And Sharpness",
+            "word": "Sagacious",
+            "description": "Terms related to being astute or sharp in perception"
+        },
+        {
+            "cluster_name": "Cunning And Sharpness",
+            "word": "Discernment",
+            "description": "Terms related to being astute or sharp in perception"
+        },
+        {
+            "cluster_name": "Revelry And Exuberance",
+            "word": "Bacchanalian",
+            "description": "Words associated with lively and noisy festivities"
+        },
+        {
+            "cluster_name": "Revelry And Exuberance",
+            "word": "Revelry",
+            "description": "Words associated with lively and noisy festivities"
+        },
+        {
+            "cluster_name": "Revelry And Exuberance",
+            "word": "Ebullient",
+            "description": "Words associated with lively and noisy festivities"
+        },
+        {
+            "cluster_name": "Minor Faults And Moral Scruples",
+            "word": "Peccadillo",
+            "description": "Terms describing minor faults or feelings of guilt"
+        },
+        {
+            "cluster_name": "Minor Faults And Moral Scruples",
+            "word": "Compunction",
+            "description": "Terms describing minor faults or feelings of guilt"
+        },
+        {
+            "cluster_name": "Controversy And Polemics",
+            "word": "Polemic",
+            "description": "Words related to strongly critical arguments or attacks"
+        },
+        {
+            "cluster_name": "Controversy And Polemics",
+            "word": "Antithetical",
+            "description": "Words related to strongly critical arguments or attacks"
+        },
+        {
+            "cluster_name": "Controversy And Polemics",
+            "word": "Vitriolic",
+            "description": "Words related to strongly critical arguments or attacks"
+        },
+        {
+            "cluster_name": "Appropriateness And Relevance",
+            "word": "Apropos",
+            "description": "Terms indicating appropriateness or relevance"
+        },
+        {
+            "cluster_name": "Appropriateness And Relevance",
+            "word": "Pertinent",
+            "description": "Terms indicating appropriateness or relevance"
+        },
+        {
+            "cluster_name": "Appropriateness And Relevance",
+            "word": "Apposite",
+            "description": "Terms indicating appropriateness or relevance"
+        },
+        {
+            "cluster_name": "Encumbrance And Removal Of Burdens",
+            "word": "Disencumber",
+            "description": "Words related to impediments and their removal"
+        },
+        {
+            "cluster_name": "Encumbrance And Removal Of Burdens",
+            "word": "Encumbrance",
+            "description": "Words related to impediments and their removal"
+        },
+        {
+            "cluster_name": "Deception And Lies",
+            "word": "Mendacious",
+            "description": "Terms describing dishonesty or lies"
+        },
+        {
+            "cluster_name": "Appeasement And Pacification",
+            "word": "Mollify",
+            "description": "Words related to soothing or placating"
+        },
+        {
+            "cluster_name": "Appeasement And Pacification",
+            "word": "Appease",
+            "description": "Words related to soothing or placating"
+        },
+        {
+            "cluster_name": "Approval And Praise",
+            "word": "Approbation",
+            "description": "Terms indicating approval or commendation"
+        },
+        {
+            "cluster_name": "Approval And Praise",
+            "word": "Encomium",
+            "description": "Terms indicating approval or commendation"
+        },
+        {
+            "cluster_name": "Arboreal Life And Caution",
+            "word": "Arboreal",
+            "description": "Words related to tree-dwelling and caution"
+        },
+        {
+            "cluster_name": "Arboreal Life And Caution",
+            "word": "Chary",
+            "description": "Words related to tree-dwelling and caution"
+        },
+        {
+            "cluster_name": "Vague And Ill-Defined Concepts",
+            "word": "Nebulous",
+            "description": "Terms describing something vague or unclear"
+        },
+        {
+            "cluster_name": "Poise And Composure",
+            "word": "Poised",
+            "description": "Words related to being poised and self-assured"
+        },
+        {
+            "cluster_name": "Erudition And Learning",
+            "word": "Erudite",
+            "description": "Terms indicating great knowledge or learning"
+        },
+        {
+            "cluster_name": "Harsh Criticism And Punishment",
+            "word": "Excoriate",
+            "description": "Words related to severe criticism or punishment"
+        },
+        {
+            "cluster_name": "Harsh Criticism And Punishment",
+            "word": "Castigation",
+            "description": "Words related to severe criticism or punishment"
+        },
+        {
+            "cluster_name": "Timidity And Cowardice",
+            "word": "Pusillanimous",
+            "description": "Terms describing a lack of courage or determination"
+        },
+        {
+            "cluster_name": "Disagreement And Disharmony",
+            "word": "Discord",
+            "description": "Words indicating disagreement or lack of harmony"
+        },
+        {
+            "cluster_name": "Crotchety And Negative Attitudes",
+            "word": "Curmudgeon",
+            "description": "Terms describing a bad-tempered or negative disposition"
+        },
+        {
+            "cluster_name": "Prosaic And Tediousness",
+            "word": "Prosaic",
+            "description": "Words related to being prosaic or lacking originality"
+        },
+        {
+            "cluster_name": "Prosaic And Tediousness",
+            "word": "Prose",
+            "description": "Words related to being prosaic or lacking originality"
+        },
+        {
+            "cluster_name": "Conciseness In Communication",
+            "word": "Laconic",
+            "description": "Terms describing brevity of speech or writing"
+        },
+        {
+            "cluster_name": "Generosity And Munificence",
+            "word": "Munificent",
+            "description": "Words indicating great generosity"
+        },
+        {
+            "cluster_name": "Corruption And Susceptibility To Bribery",
+            "word": "Venal",
+            "description": "Terms describing corruption or venality"
+        },
+        {
+            "cluster_name": "Stubbornness And Resistance To Change",
+            "word": "Obstinate",
+            "description": "Words describing stubbornness or resistance to change."
+        },
+        {
+            "cluster_name": "Stubbornness And Resistance To Change",
+            "word": "Recalcitrant",
+            "description": "Words describing stubbornness or resistance to change."
+        },
+        {
+            "cluster_name": "Deception And Falsehood",
+            "word": "Calumny",
+            "description": "Words related to deception, falsehoods, and slander."
+        },
+        {
+            "cluster_name": "Anger And Bitterness In Communication",
+            "word": "Acrimonious",
+            "description": "Words that describe angry or bitter communication."
+        },
+        {
+            "cluster_name": "Substitutes And Inauthenticity",
+            "word": "Ersatz",
+            "description": "Words describing substitutes or things that are not genuine."
+        },
+        {
+            "cluster_name": "Complexity And Elaboration",
+            "word": "Tortuous",
+            "description": "Words related to complexity, intricacy, or excessive elaboration."
+        },
+        {
+            "cluster_name": "Complexity And Elaboration",
+            "word": "Compendious",
+            "description": "Words related to complexity, intricacy, or excessive elaboration."
+        },
+        {
+            "cluster_name": "Complexity And Elaboration",
+            "word": "Scrupulous",
+            "description": "Words related to complexity, intricacy, or excessive elaboration."
+        },
+        {
+            "cluster_name": "Complexity And Elaboration",
+            "word": "Pragmatic",
+            "description": "Words related to complexity, intricacy, or excessive elaboration."
+        },
+        {
+            "cluster_name": "Showiness And Boldness",
+            "word": "Flamboyant",
+            "description": "Words describing showy or overly bold behavior or style."
+        },
+        {
+            "cluster_name": "Pride And Self-Importance",
+            "word": "Conceit",
+            "description": "Words related to excessive pride or self-importance."
+        },
+        {
+            "cluster_name": "Coyness And Reluctance",
+            "word": "Coy",
+            "description": "Words describing coyness or reluctance, especially in revealing information."
+        },
+        {
+            "cluster_name": "Allurement And Seduction",
+            "word": "Alluring",
+            "description": "Words related to alluring or seductive qualities."
+        },
+        {
+            "cluster_name": "Unpredictability And Inconstancy",
+            "word": "Erratic",
+            "description": "Words describing unpredictability, inconstancy, or fickle behavior."
+        },
+        {
+            "cluster_name": "Unpredictability And Inconstancy",
+            "word": "Fickle",
+            "description": "Words describing unpredictability, inconstancy, or fickle behavior."
+        },
+        {
+            "cluster_name": "Skepticism And Unknowingness",
+            "word": "Agnosticism",
+            "description": "Words related to skepticism or a lack of knowledge beyond experience."
+        },
+        {
+            "cluster_name": "Criticism And Satire",
+            "word": "Satire",
+            "description": "Words describing the use of humor, irony, etc., to criticize."
+        },
+        {
+            "cluster_name": "Respect And Honor",
+            "word": "Homage",
+            "description": "Words related to showing special honor or respect."
+        },
+        {
+            "cluster_name": "Respect And Honor",
+            "word": "Veneration",
+            "description": "Words related to showing special honor or respect."
+        },
+        {
+            "cluster_name": "Confirmation And Support",
+            "word": "Corroborate",
+            "description": "Words that confirm, support, or corroborate something."
+        },
+        {
+            "cluster_name": "Strongholds And Defense",
+            "word": "Bastion",
+            "description": "Words describing strong defensive structures or a protective stance."
+        },
+        {
+            "cluster_name": "Strongholds And Defense",
+            "word": "Citadel",
+            "description": "Words describing strong defensive structures or a protective stance."
+        },
+        {
+            "cluster_name": "Strongholds And Defense",
+            "word": "Fortify",
+            "description": "Words describing strong defensive structures or a protective stance."
+        },
+        {
+            "cluster_name": "Strongholds And Defense",
+            "word": "Moat",
+            "description": "Words describing strong defensive structures or a protective stance."
+        },
+        {
+            "cluster_name": "Extravagance And Prodigality",
+            "word": "Extravagance",
+            "description": "Words related to excessive spending or wastefulness."
+        },
+        {
+            "cluster_name": "Extravagance And Prodigality",
+            "word": "Prodigality",
+            "description": "Words related to excessive spending or wastefulness."
+        },
+        {
+            "cluster_name": "Enjoyment And Eagerness",
+            "word": "Relish",
+            "description": "Words describing great enjoyment or eagerness."
+        },
+        {
+            "cluster_name": "Enjoyment And Eagerness",
+            "word": "Jubilant",
+            "description": "Words describing great enjoyment or eagerness."
+        },
+        {
+            "cluster_name": "Confusion And Agitation",
+            "word": "Fluster",
+            "description": "Words that cause confusion or agitation."
+        },
+        {
+            "cluster_name": "Formality And Solemnity",
+            "word": "Sollemn",
+            "description": "Words related to formality, seriousness, or solemn occasions."
+        },
+        {
+            "cluster_name": "Formality And Solemnity",
+            "word": "Abjure",
+            "description": "Words related to formality, seriousness, or solemn occasions."
+        },
+        {
+            "cluster_name": "Formality And Solemnity",
+            "word": "Siege",
+            "description": "Words related to formality, seriousness, or solemn occasions."
+        },
+        {
+            "cluster_name": "Formality And Solemnity",
+            "word": "Beleaguer",
+            "description": "Words related to formality, seriousness, or solemn occasions."
+        },
+        {
+            "cluster_name": "Seasonal Events And Astronomy",
+            "word": "Equinox",
+            "description": "Words related to seasonal events or astronomical phenomena."
+        },
+        {
+            "cluster_name": "Seasonal Events And Astronomy",
+            "word": "Solstice",
+            "description": "Words related to seasonal events or astronomical phenomena."
+        },
+        {
+            "cluster_name": "Flexibility And Suppleness",
+            "word": "Limber",
+            "description": "Words describing flexibility, limberness, or suppleness."
+        },
+        {
+            "cluster_name": "Flexibility And Suppleness",
+            "word": "Supple",
+            "description": "Words describing flexibility, limberness, or suppleness."
+        },
+        {
+            "cluster_name": "Objective Representation",
+            "word": "Objective",
+            "description": "Words related to being objective or unbiased in representation."
+        },
+        {
+            "cluster_name": "Delegation And Authorization",
+            "word": "Delegate",
+            "description": ""
+        },
+        {
+            "cluster_name": "Seriousness And Sobriety",
+            "word": "Sober",
+            "description": "Words related to being serious, sober, or stern."
+        },
+        {
+            "cluster_name": "Seriousness And Sobriety",
+            "word": "Stern",
+            "description": "Words related to being serious, sober, or stern."
+        },
+        {
+            "cluster_name": "Dismissal And Belittlement",
+            "word": "Belittle",
+            "description": "Words that convey dismissing or belittling something."
+        },
+        {
+            "cluster_name": "Obscurity And Lack",
+            "word": "Dearth",
+            "description": "Terms indicating scarcity, lack, or obscurity."
+        },
+        {
+            "cluster_name": "Religious Rituals And Cleansing",
+            "word": "Ablution",
+            "description": "Words associated with religious rituals or cleansing practices."
+        },
+        {
+            "cluster_name": "Emotions Of Disgust And Anger",
+            "word": "Revulsion",
+            "description": "Words describing feelings of revulsion, anger, or resentment."
+        },
+        {
+            "cluster_name": "Emotions Of Disgust And Anger",
+            "word": "Abominable",
+            "description": "Words describing feelings of revulsion, anger, or resentment."
+        },
+        {
+            "cluster_name": "Emotions Of Disgust And Anger",
+            "word": "Lithe",
+            "description": "Words describing feelings of revulsion, anger, or resentment."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Indignation",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Resentment",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Penitent",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Contrition",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Jaded",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Dubiety",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Qualm",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Misgiving",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Demur",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Emotions And Attitudes",
+            "word": "Incertitude",
+            "description": "Words related to emotions and attitudes."
+        },
+        {
+            "cluster_name": "Legal And Moral Concepts",
+            "word": "Absolve",
+            "description": "Terms related to legal actions, moral decisions, and justice."
+        },
+        {
+            "cluster_name": "Legal And Moral Concepts",
+            "word": "Acquit",
+            "description": "Terms related to legal actions, moral decisions, and justice."
+        },
+        {
+            "cluster_name": "Legal And Moral Concepts",
+            "word": "Benign",
+            "description": "Terms related to legal actions, moral decisions, and justice."
+        },
+        {
+            "cluster_name": "Legal And Moral Concepts",
+            "word": "Conducive",
+            "description": "Terms related to legal actions, moral decisions, and justice."
+        },
+        {
+            "cluster_name": "Legal And Moral Concepts",
+            "word": "Insolence",
+            "description": "Terms related to legal actions, moral decisions, and justice."
+        },
+        {
+            "cluster_name": "Legal And Moral Concepts",
+            "word": "Derisive",
+            "description": "Terms related to legal actions, moral decisions, and justice."
+        },
+        {
+            "cluster_name": "Legal And Moral Concepts",
+            "word": "Aesthetic",
+            "description": "Terms related to legal actions, moral decisions, and justice."
+        },
+        {
+            "cluster_name": "Legal And Moral Concepts",
+            "word": "Genial",
+            "description": "Terms related to legal actions, moral decisions, and justice."
+        },
+        {
+            "cluster_name": "Actions And Outcomes",
+            "word": "Abscond",
+            "description": "Words related to actions and their consequences."
+        },
+        {
+            "cluster_name": "Actions And Outcomes",
+            "word": "Rescind",
+            "description": "Words related to actions and their consequences."
+        },
+        {
+            "cluster_name": "Actions And Outcomes",
+            "word": "Paucity",
+            "description": "Words related to actions and their consequences."
+        },
+        {
+            "cluster_name": "Actions And Outcomes",
+            "word": "Trite",
+            "description": "Words related to actions and their consequences."
+        },
+        {
+            "cluster_name": "Actions And Outcomes",
+            "word": "Gourmet",
+            "description": "Words related to actions and their consequences."
+        },
+        {
+            "cluster_name": "Actions And Outcomes",
+            "word": "Succinct",
+            "description": "Words related to actions and their consequences."
+        },
+        {
+            "cluster_name": "Actions And Outcomes",
+            "word": "Lucid",
+            "description": "Words related to actions and their consequences."
+        },
+        {
+            "cluster_name": "Actions And Outcomes",
+            "word": "Superficial",
+            "description": "Words related to actions and their consequences."
+        },
+        {
+            "cluster_name": "Personality Traits And Characteristics",
+            "word": "Truculent",
+            "description": "Terms describing personality traits, behaviors, and characteristics."
+        },
+        {
+            "cluster_name": "Personality Traits And Characteristics",
+            "word": "Volatile",
+            "description": "Terms describing personality traits, behaviors, and characteristics."
+        },
+        {
+            "cluster_name": "Personality Traits And Characteristics",
+            "word": "Pedestrian",
+            "description": "Terms describing personality traits, behaviors, and characteristics."
+        },
+        {
+            "cluster_name": "Personality Traits And Characteristics",
+            "word": "Affluent",
+            "description": "Terms describing personality traits, behaviors, and characteristics."
+        },
+        {
+            "cluster_name": "Personality Traits And Characteristics",
+            "word": "Conundrum",
+            "description": "Terms describing personality traits, behaviors, and characteristics."
+        },
+        {
+            "cluster_name": "Personality Traits And Characteristics",
+            "word": "Muddle",
+            "description": "Terms describing personality traits, behaviors, and characteristics."
+        },
+        {
+            "cluster_name": "Personality Traits And Characteristics",
+            "word": "Pacifist",
+            "description": "Terms describing personality traits, behaviors, and characteristics."
+        },
+        {
+            "cluster_name": "Personality Traits And Characteristics",
+            "word": "Acquit",
+            "description": "Terms describing personality traits, behaviors, and characteristics."
+        },
+        {
+            "cluster_name": "Cognition And Perception",
+            "word": "Apprehend",
+            "description": "Words related to thinking, understanding, and perception."
+        },
+        {
+            "cluster_name": "Cognition And Perception",
+            "word": "Discern",
+            "description": "Words related to thinking, understanding, and perception."
+        },
+        {
+            "cluster_name": "Cognition And Perception",
+            "word": "Quibble",
+            "description": "Words related to thinking, understanding, and perception."
+        },
+        {
+            "cluster_name": "Cognition And Perception",
+            "word": "Pedagogy",
+            "description": "Words related to thinking, understanding, and perception."
+        },
+        {
+            "cluster_name": "Synonyms Of Restraint And Moderation",
+            "word": "Abstemious",
+            "description": "Words related to restraint, moderation, and self-control."
+        },
+        {
+            "cluster_name": "Synonyms Of Restraint And Moderation",
+            "word": "Forbear",
+            "description": "Words related to restraint, moderation, and self-control."
+        },
+        {
+            "cluster_name": "Actions Of Control And Constraint",
+            "word": "Impede",
+            "description": "Words describing actions that control or constrain others or oneself."
+        },
+        {
+            "cluster_name": "Actions Of Control And Constraint",
+            "word": "Incarcerate",
+            "description": "Words describing actions that control or constrain others or oneself."
+        },
+        {
+            "cluster_name": "Actions Of Control And Constraint",
+            "word": "Manacle",
+            "description": "Words describing actions that control or constrain others or oneself."
+        },
+        {
+            "cluster_name": "Actions Of Control And Constraint",
+            "word": "Trammel",
+            "description": "Words describing actions that control or constrain others or oneself."
+        },
+        {
+            "cluster_name": "Actions Of Control And Constraint",
+            "word": "Subjugate",
+            "description": "Words describing actions that control or constrain others or oneself."
+        },
+        {
+            "cluster_name": "Superiority And Eliteness",
+            "word": "Cosmopolitan",
+            "description": "Terms indicating superiority, exclusivity, or high quality."
+        },
+        {
+            "cluster_name": "Superiority And Eliteness",
+            "word": "Puny",
+            "description": "Terms indicating superiority, exclusivity, or high quality."
+        },
+        {
+            "cluster_name": "Words Of Greatness And Magnitude",
+            "word": "Monolithic",
+            "description": "Adjectives describing something large, impressive, or massive."
+        },
+        {
+            "cluster_name": "Words Of Greatness And Magnitude",
+            "word": "Elephantine",
+            "description": "Adjectives describing something large, impressive, or massive."
+        },
+        {
+            "cluster_name": "Words Of Greatness And Magnitude",
+            "word": "Dinosaurian",
+            "description": "Adjectives describing something large, impressive, or massive."
+        },
+        {
+            "cluster_name": "Words Of Greatness And Magnitude",
+            "word": "Stupendous",
+            "description": "Adjectives describing something large, impressive, or massive."
+        },
+        {
+            "cluster_name": "Actions Of Conquering And Defeating",
+            "word": "Vanquish",
+            "description": "Verbs indicating the act of conquering or defeating others."
+        },
+        {
+            "cluster_name": "Actions Of Conquering And Defeating",
+            "word": "Subjugate",
+            "description": "Verbs indicating the act of conquering or defeating others."
+        },
+        {
+            "cluster_name": "Words Related To Profitability And Success",
+            "word": "Lucrative",
+            "description": "Adjectives describing profitability, success, or effectiveness."
+        },
+        {
+            "cluster_name": "Words Related To Profitability And Success",
+            "word": "Creditable",
+            "description": "Adjectives describing profitability, success, or effectiveness."
+        },
+        {
+            "cluster_name": "Words Describing Physical Characteristics",
+            "word": "Cumbersome",
+            "description": "Adjectives describing physical attributes or conditions."
+        },
+        {
+            "cluster_name": "Words Describing Physical Characteristics",
+            "word": "Ponderous",
+            "description": "Adjectives describing physical attributes or conditions."
+        },
+        {
+            "cluster_name": "Words Describing Physical Characteristics",
+            "word": "Hew",
+            "description": "Adjectives describing physical attributes or conditions."
+        },
+        {
+            "cluster_name": "Words Of Beauty And Charisma",
+            "word": "Suave",
+            "description": "Terms indicating charm, beauty, or elegance."
+        },
+        {
+            "cluster_name": "Words Of Beauty And Charisma",
+            "word": "Ethereal",
+            "description": "Terms indicating charm, beauty, or elegance."
+        },
+        {
+            "cluster_name": "Negative Descriptions And Ridiculousness",
+            "word": "Ludicrous",
+            "description": "Adjectives with negative connotations or describing absurdity."
+        },
+        {
+            "cluster_name": "Negative Descriptions And Ridiculousness",
+            "word": "Lugubrious",
+            "description": "Adjectives with negative connotations or describing absurdity."
+        },
+        {
+            "cluster_name": "Negative Descriptions And Ridiculousness",
+            "word": "Turpitude",
+            "description": "Adjectives with negative connotations or describing absurdity."
+        },
+        {
+            "cluster_name": "Negative Descriptions And Ridiculousness",
+            "word": "Deleterious",
+            "description": "Adjectives with negative connotations or describing absurdity."
+        },
+        {
+            "cluster_name": "Structures And Physical Objects",
+            "word": "Cavern",
+            "description": "Nouns referring to physical structures or objects."
+        },
+        {
+            "cluster_name": "Structures And Physical Objects",
+            "word": "Skyscraper",
+            "description": "Nouns referring to physical structures or objects."
+        },
+        {
+            "cluster_name": "Words Of Inheritance And Passing On",
+            "word": "Bequeath",
+            "description": "Terms related to inheritance or passing on something."
+        },
+        {
+            "cluster_name": "Gifts And Transfers",
+            "word": "Bequest",
+            "description": "Words related to giving or transferring items, often with a focus on future intentions."
+        },
+        {
+            "cluster_name": "Gifts And Transfers",
+            "word": "Endow",
+            "description": "Words related to giving or transferring items, often with a focus on future intentions."
+        },
+        {
+            "cluster_name": "Communication Styles",
+            "word": "Delineate",
+            "description": "Terms associated with various forms of speech delivery and communication techniques."
+        },
+        {
+            "cluster_name": "Communication Styles",
+            "word": "Declaim",
+            "description": "Terms associated with various forms of speech delivery and communication techniques."
+        },
+        {
+            "cluster_name": "Communication Styles",
+            "word": "Rhetoric",
+            "description": "Terms associated with various forms of speech delivery and communication techniques."
+        },
+        {
+            "cluster_name": "Communication Styles",
+            "word": "Impassioned",
+            "description": "Terms associated with various forms of speech delivery and communication techniques."
+        },
+        {
+            "cluster_name": "Communication Styles",
+            "word": "Declamation",
+            "description": "Terms associated with various forms of speech delivery and communication techniques."
+        },
+        {
+            "cluster_name": "Communication Styles",
+            "word": "Oration",
+            "description": "Terms associated with various forms of speech delivery and communication techniques."
+        },
+        {
+            "cluster_name": "Communication Styles",
+            "word": "Peroration",
+            "description": "Terms associated with various forms of speech delivery and communication techniques."
+        },
+        {
+            "cluster_name": "Emotional Leadership And Influence",
+            "word": "Demagogue",
+            "description": "Words describing leadership styles that focus on emotional appeal or manipulation."
+        },
+        {
+            "cluster_name": "Euphemisms And Sensitivity In Language",
+            "word": "Euphemism",
+            "description": "Terms related to the use of mild or indirect language, often for sensitive topics."
+        },
+        {
+            "cluster_name": "Euphemisms And Sensitivity In Language",
+            "word": "Euphony",
+            "description": "Terms related to the use of mild or indirect language, often for sensitive topics."
+        },
+        {
+            "cluster_name": "Mental And Emotional States",
+            "word": "Pensive",
+            "description": "Terms describing mental states, thoughts, or emotional conditions."
+        },
+        {
+            "cluster_name": "Mental And Emotional States",
+            "word": "Magnanimity",
+            "description": "Terms describing mental states, thoughts, or emotional conditions."
+        },
+        {
+            "cluster_name": "Mental And Emotional States",
+            "word": "Umbrage",
+            "description": "Terms describing mental states, thoughts, or emotional conditions."
+        },
+        {
+            "cluster_name": "Mental And Emotional States",
+            "word": "Unconscionable",
+            "description": "Terms describing mental states, thoughts, or emotional conditions."
+        },
+        {
+            "cluster_name": "Physical And Environmental Conditions",
+            "word": "Maelstrom",
+            "description": "Words related to physical states, environments, or natural phenomena."
+        },
+        {
+            "cluster_name": "Physical And Environmental Conditions",
+            "word": "Blizzard",
+            "description": "Words related to physical states, environments, or natural phenomena."
+        },
+        {
+            "cluster_name": "Physical And Environmental Conditions",
+            "word": "Cacophony",
+            "description": "Words related to physical states, environments, or natural phenomena."
+        },
+        {
+            "cluster_name": "Physical And Environmental Conditions",
+            "word": "Harmony",
+            "description": "Words related to physical states, environments, or natural phenomena."
+        },
+        {
+            "cluster_name": "Physical And Environmental Conditions",
+            "word": "Dissonance",
+            "description": "Words related to physical states, environments, or natural phenomena."
+        },
+        {
+            "cluster_name": "Speech And Communication Techniques",
+            "word": "Declaim",
+            "description": "Words related to speech delivery, styles, and communication methods."
+        },
+        {
+            "cluster_name": "Speech And Communication Techniques",
+            "word": "Rhetoric",
+            "description": "Words related to speech delivery, styles, and communication methods."
+        },
+        {
+            "cluster_name": "Speech And Communication Techniques",
+            "word": "Impassioned",
+            "description": "Words related to speech delivery, styles, and communication methods."
+        },
+        {
+            "cluster_name": "Speech And Communication Techniques",
+            "word": "Declamation",
+            "description": "Words related to speech delivery, styles, and communication methods."
+        },
+        {
+            "cluster_name": "Speech And Communication Techniques",
+            "word": "Oration",
+            "description": "Words related to speech delivery, styles, and communication methods."
+        },
+        {
+            "cluster_name": "Speech And Communication Techniques",
+            "word": "Peroration",
+            "description": "Words related to speech delivery, styles, and communication methods."
+        },
+        {
+            "cluster_name": "Calmness And Composure",
+            "word": "Tranquil",
+            "description": "Terms describing a state of calmness or composure under challenging circumstances."
+        },
+        {
+            "cluster_name": "Calmness And Composure",
+            "word": "Imperturbable",
+            "description": "Terms describing a state of calmness or composure under challenging circumstances."
+        },
+        {
+            "cluster_name": "Calmness And Composure",
+            "word": "Stoic",
+            "description": "Terms describing a state of calmness or composure under challenging circumstances."
+        },
+        {
+            "cluster_name": "Negative Emotions And Annoyance",
+            "word": "Vexing",
+            "description": "Words that convey negative emotions, frustration, or annoyance."
+        },
+        {
+            "cluster_name": "Negative Emotions And Annoyance",
+            "word": "Jarring",
+            "description": "Words that convey negative emotions, frustration, or annoyance."
+        },
+        {
+            "cluster_name": "Negative Emotions And Annoyance",
+            "word": "Incongruous",
+            "description": "Words that convey negative emotions, frustration, or annoyance."
+        },
+        {
+            "cluster_name": "Negative Emotions And Annoyance",
+            "word": "Pestilential",
+            "description": "Words that convey negative emotions, frustration, or annoyance."
+        },
+        {
+            "cluster_name": "Negative Emotions And Annoyance",
+            "word": "Uncanny",
+            "description": "Words that convey negative emotions, frustration, or annoyance."
+        },
+        {
+            "cluster_name": "Negative Emotions And Annoyance",
+            "word": "Canny",
+            "description": "Words that convey negative emotions, frustration, or annoyance."
+        },
+        {
+            "cluster_name": "Stubbornness/Religious Zeal",
+            "word": "Zealot",
+            "description": "Words related to being stubborn or having strong religious beliefs."
+        },
+        {
+            "cluster_name": "Intensification/Peak Points",
+            "word": "Apogee",
+            "description": "Words indicating reaching a peak or climax in intensity."
+        },
+        {
+            "cluster_name": "Intensification/Peak Points",
+            "word": "Crescendo",
+            "description": "Words indicating reaching a peak or climax in intensity."
+        },
+        {
+            "cluster_name": "Lowest Points",
+            "word": "Nadir",
+            "description": "Words describing the lowest point in a situation."
+        },
+        {
+            "cluster_name": "Perfunctory/Casual Indifference",
+            "word": "Perfunctory",
+            "description": "Words indicating a lack of interest or enthusiasm, often with a casual demeanor."
+        },
+        {
+            "cluster_name": "Perfunctory/Casual Indifference",
+            "word": "Nonchalant",
+            "description": "Words indicating a lack of interest or enthusiasm, often with a casual demeanor."
+        },
+        {
+            "cluster_name": "Perfunctory/Casual Indifference",
+            "word": "Insouciant",
+            "description": "Words indicating a lack of interest or enthusiasm, often with a casual demeanor."
+        },
+        {
+            "cluster_name": "Perfunctory/Casual Indifference",
+            "word": "Pococurante",
+            "description": "Words indicating a lack of interest or enthusiasm, often with a casual demeanor."
+        },
+        {
+            "cluster_name": "Foreknowledge And Omens",
+            "word": "Prescience",
+            "description": "Words related to predicting the future or signs of upcoming events."
+        },
+        {
+            "cluster_name": "Foreknowledge And Omens",
+            "word": "Presage",
+            "description": "Words related to predicting the future or signs of upcoming events."
+        },
+        {
+            "cluster_name": "Foreknowledge And Omens",
+            "word": "Portent",
+            "description": "Words related to predicting the future or signs of upcoming events."
+        },
+        {
+            "cluster_name": "Foreknowledge And Omens",
+            "word": "Augury",
+            "description": "Words related to predicting the future or signs of upcoming events."
+        },
+        {
+            "cluster_name": "Foreknowledge And Omens",
+            "word": "Prognosis",
+            "description": "Words related to predicting the future or signs of upcoming events."
+        },
+        {
+            "cluster_name": "Foreknowledge And Omens",
+            "word": "Unprophetic",
+            "description": "Words related to predicting the future or signs of upcoming events."
+        },
+        {
+            "cluster_name": "Division/Severance",
+            "word": "Dissever",
+            "description": "Words related to dividing or separating something."
+        },
+        {
+            "cluster_name": "Connections And Relationships",
+            "word": "Nexus",
+            "description": "Words indicating a connection or link between things."
+        },
+        {
+            "cluster_name": "Callousness And Indifference",
+            "word": "Blithe",
+            "description": "Words describing insensitivity or lack of concern towards others."
+        },
+        {
+            "cluster_name": "Callousness And Indifference",
+            "word": "Callous",
+            "description": "Words describing insensitivity or lack of concern towards others."
+        },
+        {
+            "cluster_name": "Callousness And Indifference",
+            "word": "Facetious",
+            "description": "Words describing insensitivity or lack of concern towards others."
+        },
+        {
+            "cluster_name": "Callousness And Indifference",
+            "word": "Flippant",
+            "description": "Words describing insensitivity or lack of concern towards others."
+        },
+        {
+            "cluster_name": "Callousness And Indifference",
+            "word": "Frivolous",
+            "description": "Words describing insensitivity or lack of concern towards others."
+        },
+        {
+            "cluster_name": "Callousness And Indifference",
+            "word": "Levity",
+            "description": "Words describing insensitivity or lack of concern towards others."
+        },
+        {
+            "cluster_name": "Arguments And Conflicts",
+            "word": "Squabble",
+            "description": "Words related to quarrels, disputes, and temporary truces."
+        },
+        {
+            "cluster_name": "Arguments And Conflicts",
+            "word": "Bicker",
+            "description": "Words related to quarrels, disputes, and temporary truces."
+        },
+        {
+            "cluster_name": "Arguments And Conflicts",
+            "word": "Truce",
+            "description": "Words related to quarrels, disputes, and temporary truces."
+        },
+        {
+            "cluster_name": "Arrogance And Superiority",
+            "word": "Hauteur",
+            "description": "Words describing haughty or disdainful behavior."
+        },
+        {
+            "cluster_name": "Arrogance And Superiority",
+            "word": "Haughtiness",
+            "description": "Words describing haughty or disdainful behavior."
+        },
+        {
+            "cluster_name": "Mood And Emotional States",
+            "word": "Melancholy",
+            "description": "Words related to emotional states such as sadness, nausea, or spitefulness."
+        },
+        {
+            "cluster_name": "Mood And Emotional States",
+            "word": "Bilious",
+            "description": "Words related to emotional states such as sadness, nausea, or spitefulness."
+        },
+        {
+            "cluster_name": "Fame And Respect",
+            "word": "Illustrious",
+            "description": "Words describing being well-known and respected for achievements."
+        },
+        {
+            "cluster_name": "Uniqueness And Inimitability",
+            "word": "Inimitable",
+            "description": "Words indicating something is unique or impossible to copy."
+        },
+        {
+            "cluster_name": "Growth And Accumulation",
+            "word": "Accretion",
+            "description": "Words related to gradual growth, increase, or accumulation."
+        },
+        {
+            "cluster_name": "Growth And Accumulation",
+            "word": "Augmentation",
+            "description": "Words related to gradual growth, increase, or accumulation."
+        },
+        {
+            "cluster_name": "Growth And Accumulation",
+            "word": "Proliferation",
+            "description": "Words related to gradual growth, increase, or accumulation."
+        },
+        {
+            "cluster_name": "Diverse And Varied",
+            "word": "Motley",
+            "description": "Words describing something incongruous or varied in appearance or character."
+        },
+        {
+            "cluster_name": "Diverse And Varied",
+            "word": "Disparate",
+            "description": "Words describing something incongruous or varied in appearance or character."
+        },
+        {
+            "cluster_name": "Expressions Of Praise And Ecstasy",
+            "word": "Paean",
+            "description": "Words related to expressing praise, triumph, or ecstatic feelings."
+        },
+        {
+            "cluster_name": "Expressions Of Praise And Ecstasy",
+            "word": "Rhapsody",
+            "description": "Words related to expressing praise, triumph, or ecstatic feelings."
+        },
+        {
+            "cluster_name": "Daydreaming And Imagination",
+            "word": "Reverie",
+            "description": "Words describing a state of being lost in thoughts or daydreams."
+        },
+        {
+            "cluster_name": "Criticism And Dishonesty",
+            "word": "Denigrate",
+            "description": "Words related to criticizing, defrauding, or violating sacred things."
+        },
+        {
+            "cluster_name": "Criticism And Dishonesty",
+            "word": "Sacrilege",
+            "description": "Words related to criticizing, defrauding, or violating sacred things."
+        },
+        {
+            "cluster_name": "Criticism And Dishonesty",
+            "word": "Bilk",
+            "description": "Words related to criticizing, defrauding, or violating sacred things."
+        },
+        {
+            "cluster_name": "Criticism And Dishonesty",
+            "word": "Defraud",
+            "description": "Words related to criticizing, defrauding, or violating sacred things."
+        },
+        {
+            "cluster_name": "Reduction And Diminishment",
+            "word": "Diminution",
+            "description": "Words indicating a reduction in size, extent, or importance."
+        },
+        {
+            "cluster_name": "Reduction And Diminishment",
+            "word": "Untenable",
+            "description": "Words indicating a reduction in size, extent, or importance."
+        },
+        {
+            "cluster_name": "Sharpness And Bitterness",
+            "word": "Acerbic",
+            "description": "Words describing sharpness in taste or tone, often used to describe behavior."
+        },
+        {
+            "cluster_name": "Multiple Marriages",
+            "word": "Bigamist",
+            "description": "Words related to being married to multiple people at the same time."
+        },
+        {
+            "cluster_name": "Moral Corruption And Wickedness",
+            "word": "Depravity",
+            "description": "Words related to moral failing or wicked behavior"
+        },
+        {
+            "cluster_name": "Moral Corruption And Wickedness",
+            "word": "Iniquity",
+            "description": "Words related to moral failing or wicked behavior"
+        },
+        {
+            "cluster_name": "End Of Life Decisions",
+            "word": "Euthanasia",
+            "description": "Terms concerning ending life for mercy"
+        },
+        {
+            "cluster_name": "Impulsive And Rash Actions",
+            "word": "Impetous",
+            "description": "Words describing hasty or careless behavior"
+        },
+        {
+            "cluster_name": "Impulsive And Rash Actions",
+            "word": "Imprudent",
+            "description": "Words describing hasty or careless behavior"
+        },
+        {
+            "cluster_name": "Wealth And Influence",
+            "word": "Magnate",
+            "description": "Terms related to wealth and power"
+        },
+        {
+            "cluster_name": "Longevity And Permanence",
+            "word": "Perennial",
+            "description": "Words indicating lasting existence or duration"
+        },
+        {
+            "cluster_name": "Unintentional Actions",
+            "word": "Unwitting",
+            "description": "Words describing actions done without intent"
+        },
+        {
+            "cluster_name": "Abstinence And Celibacy",
+            "word": "Celibate",
+            "description": "Terms related to abstaining from marriage or sexual relations"
+        },
+        {
+            "cluster_name": "Enthusiasm And Passion",
+            "word": "Fervid",
+            "description": "Words expressing intense passion or eagerness"
+        },
+        {
+            "cluster_name": "Wandering And Nomadic Lifestyle",
+            "word": "Vagabond",
+            "description": "Terms describing people without fixed residence or job"
+        },
+        {
+            "cluster_name": "Poverty And Financial Need",
+            "word": "Pauper",
+            "description": "Words indicating extreme financial hardship"
+        },
+        {
+            "cluster_name": "Poverty And Financial Need",
+            "word": "Destitute",
+            "description": "Words indicating extreme financial hardship"
+        },
+        {
+            "cluster_name": "Frankness And Openness",
+            "word": "Candor",
+            "description": "Terms related to honesty and transparency"
+        },
+        {
+            "cluster_name": "Analytical And Insightful Thinking",
+            "word": "Trenchant",
+            "description": "Words describing sharp mental acumen"
+        },
+        {
+            "cluster_name": "Analytical And Insightful Thinking",
+            "word": "Incisive",
+            "description": "Words describing sharp mental acumen"
+        },
+        {
+            "cluster_name": "Analytical And Insightful Thinking",
+            "word": "Perceptive",
+            "description": "Words describing sharp mental acumen"
+        },
+        {
+            "cluster_name": "Analytical And Insightful Thinking",
+            "word": "Acute",
+            "description": "Words describing sharp mental acumen"
+        },
+        {
+            "cluster_name": "Marital Status Descriptions",
+            "word": "Spinster",
+            "description": "Terms describing unmarried or unmarriageable states"
+        },
+        {
+            "cluster_name": "Reproduction And Creation",
+            "word": "Procreation",
+            "description": "Words concerning the act of producing offspring"
+        },
+        {
+            "cluster_name": "Heavy Rainfall Intensity",
+            "word": "Torrential",
+            "description": "Terms describing rain that falls rapidly in large amounts"
+        },
+        {
+            "cluster_name": "Heavy Rainfall Intensity",
+            "word": "Copious",
+            "description": "Terms describing rain that falls rapidly in large amounts"
+        },
+        {
+            "cluster_name": "Learning And Apprenticeship",
+            "word": "Apprentice",
+            "description": "Words related to the process of learning a trade"
+        },
+        {
+            "cluster_name": "Severity And Intensity",
+            "word": "Acute",
+            "description": "Terms indicating something experienced with severity or intensity"
+        },
+        {
+            "cluster_name": "Severity And Intensity",
+            "word": "Chronic",
+            "description": "Terms indicating something experienced with severity or intensity"
+        },
+        {
+            "cluster_name": "Conciseness And Brevity",
+            "word": "Brevity",
+            "description": "Words describing the quality of being short or concise"
+        },
+        {
+            "cluster_name": "Temperature Extremes",
+            "word": "Scalding",
+            "description": "Terms related to high heat causing pain or discomfort"
+        },
+        {
+            "cluster_name": "Trendsetting And Avant-Garde",
+            "word": "Edgy",
+            "description": "Words describing cutting-edge or experimental trends"
+        },
+        {
+            "cluster_name": "Trendsetting And Avant-Garde",
+            "word": "Avant-garde",
+            "description": "Words describing cutting-edge or experimental trends"
+        },
+        {
+            "cluster_name": "Deception And Fraud",
+            "word": "Swindling",
+            "description": "Terms related to deceiving others for gain"
+        },
+        {
+            "cluster_name": "Religious Assistance And Devotion",
+            "word": "Acolyte",
+            "description": "Words describing followers or assistants in religious contexts"
+        },
+        {
+            "cluster_name": "Criticism And Disapproval",
+            "word": "Deprecate",
+            "description": "Terms indicating the act of disapproving or belittling"
+        },
+        {
+            "cluster_name": "Criticism And Disapproval",
+            "word": "Deride",
+            "description": "Terms indicating the act of disapproving or belittling"
+        },
+        {
+            "cluster_name": "Criticism And Disapproval",
+            "word": "Upbraid",
+            "description": "Terms indicating the act of disapproving or belittling"
+        },
+        {
+            "cluster_name": "Skillfulness And Proficiency",
+            "word": "Adept",
+            "description": "Words describing being highly skilled or adept"
+        },
+        {
+            "cluster_name": "Punctuality Issues",
+            "word": "Tardiness",
+            "description": "Terms related to being late or tardy"
+        },
+        {
+            "cluster_name": "Agility And Quickness",
+            "word": "Agile",
+            "description": "Words describing the ability to move quickly and easily"
+        },
+        {
+            "cluster_name": "Agility And Quickness",
+            "word": "Nimble",
+            "description": "Words describing the ability to move quickly and easily"
+        },
+        {
+            "cluster_name": "Brilliance And Sparkling Quality",
+            "word": "Scintillating",
+            "description": "Terms indicating brightness or cleverness"
+        },
+        {
+            "cluster_name": "Politeness And Refinement",
+            "word": "Urbane",
+            "description": "Words describing courteous and polished behavior"
+        },
+        {
+            "cluster_name": "Harsh Taste And Aroma",
+            "word": "Acrid",
+            "description": "Terms related to a sharp, bitter flavor or smell"
+        },
+        {
+            "cluster_name": "Persuasion Through Flattery",
+            "word": "Blandishment",
+            "description": "Words describing the use of praise to influence others"
+        },
+        {
+            "cluster_name": "Mockery And Contempt",
+            "word": "Derision",
+            "description": "Terms indicating ridicule or scornful treatment"
+        },
+        {
+            "cluster_name": "Aggravation And Exasperation",
+            "word": "Exacerbate",
+            "description": "Words describing the act of making worse or more severe"
+        },
+        {
+            "cluster_name": "Demanding Standards",
+            "word": "Exacting",
+            "description": "Terms related to strictness or high expectations"
+        },
+        {
+            "cluster_name": "Subtle And Understood Meanings",
+            "word": "Implicit",
+            "description": "Words indicating something implied rather than stated directly"
+        },
+        {
+            "cluster_name": "General Discomfort",
+            "word": "Malaise",
+            "description": "Terms describing a feeling of unease or illness"
+        },
+        {
+            "cluster_name": "Mental Fatigue And Low Energy",
+            "word": "Enervation",
+            "description": "Words related to mental or physical weariness and lack of energy."
+        },
+        {
+            "cluster_name": "Mental Fatigue And Low Energy",
+            "word": "Lassitude",
+            "description": "Words related to mental or physical weariness and lack of energy."
+        },
+        {
+            "cluster_name": "Mental Fatigue And Low Energy",
+            "word": "Languor",
+            "description": "Words related to mental or physical weariness and lack of energy."
+        },
+        {
+            "cluster_name": "Negative Emotions And Dissatisfaction",
+            "word": "Disgruntled",
+            "description": "Emotions characterized by anger, dissatisfaction, or unhappiness."
+        },
+        {
+            "cluster_name": "Negative Emotions And Dissatisfaction",
+            "word": "Brisk",
+            "description": "Emotions characterized by anger, dissatisfaction, or unhappiness."
+        },
+        {
+            "cluster_name": "Coarseness And Rudeness",
+            "word": "Boorish",
+            "description": "Words describing roughness, rudeness, or lack of refinement."
+        },
+        {
+            "cluster_name": "Coarseness And Rudeness",
+            "word": "Coarse",
+            "description": "Words describing roughness, rudeness, or lack of refinement."
+        },
+        {
+            "cluster_name": "Criticism And Scorn",
+            "word": "Scathing",
+            "description": "Expressions of severe criticism or mocking."
+        },
+        {
+            "cluster_name": "Criticism And Scorn",
+            "word": "Witheringly",
+            "description": "Expressions of severe criticism or mocking."
+        },
+        {
+            "cluster_name": "Deception And Trickery",
+            "word": "Legerdemain",
+            "description": "Actions involving deceit, fraud, or mischievous behavior."
+        },
+        {
+            "cluster_name": "Deception And Trickery",
+            "word": "Knavery",
+            "description": "Actions involving deceit, fraud, or mischievous behavior."
+        },
+        {
+            "cluster_name": "Deception And Trickery",
+            "word": "Roguish",
+            "description": "Actions involving deceit, fraud, or mischievous behavior."
+        },
+        {
+            "cluster_name": "Deception And Trickery",
+            "word": "Hijinks",
+            "description": "Actions involving deceit, fraud, or mischievous behavior."
+        },
+        {
+            "cluster_name": "Overly Sweet Or Sentimental",
+            "word": "Saccharine",
+            "description": "Words describing excessive sweetness or sentimentality."
+        },
+        {
+            "cluster_name": "Utility And Practicality",
+            "word": "Utilitarian",
+            "description": "Concerned with practical use and effectiveness."
+        },
+        {
+            "cluster_name": "Reluctant Acceptance",
+            "word": "Acquiesce",
+            "description": "Expressions of accepting something reluctantly or without protest."
+        },
+        {
+            "cluster_name": "Piety And Reverence",
+            "word": "Piety",
+            "description": "Concerning religious devotion or reverence."
+        },
+        {
+            "cluster_name": "Damage And Spoiling",
+            "word": "Mar",
+            "description": "Actions that impair quality or appearance."
+        },
+        {
+            "cluster_name": "Improvisation And Spontaneity",
+            "word": "Ad-lib",
+            "description": "Involving the absence of preparation, especially in performance."
+        },
+        {
+            "cluster_name": "Subtlety And Nuance",
+            "word": "Nuance",
+            "description": "Concerning subtle differences or shades of meaning."
+        },
+        {
+            "cluster_name": "Curse And Misfortune",
+            "word": "Malediction",
+            "description": "Words related to curses or bringing harm upon someone."
+        },
+        {
+            "cluster_name": "Curse And Misfortune",
+            "word": "Jinx",
+            "description": "Words related to curses or bringing harm upon someone."
+        },
+        {
+            "cluster_name": "Ideally Perfect Places",
+            "word": "Utopia",
+            "description": "Imaginary places where everything is perfect."
+        },
+        {
+            "cluster_name": "Magic And Protective Objects",
+            "word": "Talisman",
+            "description": "Objects believed to have magical powers or good luck."
+        },
+        {
+            "cluster_name": "Unconventional Sexual Desires",
+            "word": "Fetish",
+            "description": "Terms related to non-traditional sexual desires or practices."
+        },
+        {
+            "cluster_name": "Negative Emotions And Actions",
+            "word": "Affront",
+            "description": "Words related to negative emotions, actions that cause offense or discomfort."
+        },
+        {
+            "cluster_name": "Negative Emotions And Actions",
+            "word": "Rankle",
+            "description": "Words related to negative emotions, actions that cause offense or discomfort."
+        },
+        {
+            "cluster_name": "Negative Emotions And Actions",
+            "word": "Abrasive",
+            "description": "Words related to negative emotions, actions that cause offense or discomfort."
+        },
+        {
+            "cluster_name": "Negative Emotions And Actions",
+            "word": "Incendiary",
+            "description": "Words related to negative emotions, actions that cause offense or discomfort."
+        },
+        {
+            "cluster_name": "Deception And Secrecy",
+            "word": "Covert",
+            "description": "Words associated with hiding information or being covert."
+        },
+        {
+            "cluster_name": "Deception And Secrecy",
+            "word": "Cagey",
+            "description": "Words associated with hiding information or being covert."
+        },
+        {
+            "cluster_name": "Deception And Secrecy",
+            "word": "Evade",
+            "description": "Words associated with hiding information or being covert."
+        },
+        {
+            "cluster_name": "Deception And Secrecy",
+            "word": "Obtrusive",
+            "description": "Words associated with hiding information or being covert."
+        },
+        {
+            "cluster_name": "Wisdom And Insightfulness",
+            "word": "Perspicacious",
+            "description": "Terms related to intelligence, wisdom, or perceptive abilities."
+        },
+        {
+            "cluster_name": "Wisdom And Insightfulness",
+            "word": "Adroit",
+            "description": "Terms related to intelligence, wisdom, or perceptive abilities."
+        },
+        {
+            "cluster_name": "Wisdom And Insightfulness",
+            "word": "Sage",
+            "description": "Terms related to intelligence, wisdom, or perceptive abilities."
+        },
+        {
+            "cluster_name": "Control And Suppression",
+            "word": "Subdue",
+            "description": "Words indicating control, subjugation, or the act of suppressing."
+        },
+        {
+            "cluster_name": "Control And Suppression",
+            "word": "Dredge",
+            "description": "Words indicating control, subjugation, or the act of suppressing."
+        },
+        {
+            "cluster_name": "Social Behavior And Etiquette",
+            "word": "Vainglory",
+            "description": "Terms describing social behaviors, interactions, or aspects of society."
+        },
+        {
+            "cluster_name": "Social Behavior And Etiquette",
+            "word": "Pious",
+            "description": "Terms describing social behaviors, interactions, or aspects of society."
+        },
+        {
+            "cluster_name": "Social Behavior And Etiquette",
+            "word": "Consecrate",
+            "description": "Terms describing social behaviors, interactions, or aspects of society."
+        },
+        {
+            "cluster_name": "Social Behavior And Etiquette",
+            "word": "Disconsolate",
+            "description": "Terms describing social behaviors, interactions, or aspects of society."
+        },
+        {
+            "cluster_name": "Nature And Environment",
+            "word": "Ferret",
+            "description": "Words related to natural elements or environmental actions."
+        },
+        {
+            "cluster_name": "Nature And Environment",
+            "word": "Dystopia",
+            "description": "Words related to natural elements or environmental actions."
+        },
+        {
+            "cluster_name": "Nature And Environment",
+            "word": "Desiccate",
+            "description": "Words related to natural elements or environmental actions."
+        },
+        {
+            "cluster_name": "Efficiency And Organization",
+            "word": "Conscientious",
+            "description": "Terms indicating efficiency, orderliness, or lack thereof."
+        },
+        {
+            "cluster_name": "Efficiency And Organization",
+            "word": "Haphazard",
+            "description": "Terms indicating efficiency, orderliness, or lack thereof."
+        },
+        {
+            "cluster_name": "Efficiency And Organization",
+            "word": "Perquisite",
+            "description": "Terms indicating efficiency, orderliness, or lack thereof."
+        },
+        {
+            "cluster_name": "Physical Characteristics And States",
+            "word": "Inconspicuous",
+            "description": "Words describing physical characteristics, conditions, or states."
+        },
+        {
+            "cluster_name": "Physical Characteristics And States",
+            "word": "Placate",
+            "description": "Words describing physical characteristics, conditions, or states."
+        },
+        {
+            "cluster_name": "Physical Characteristics And States",
+            "word": "Exigent",
+            "description": "Words describing physical characteristics, conditions, or states."
+        },
+        {
+            "cluster_name": "Creativity And Ingenuity",
+            "word": "Flair",
+            "description": "Terms related to creativity, cleverness, or innovative thinking."
+        },
+        {
+            "cluster_name": "Creativity And Ingenuity",
+            "word": "Adroit",
+            "description": "Terms related to creativity, cleverness, or innovative thinking."
+        },
+        {
+            "cluster_name": "Conflict And Resolution",
+            "word": "Denounce",
+            "description": "Words describing conflict situations or methods of resolution."
+        },
+        {
+            "cluster_name": "Conflict And Resolution",
+            "word": "Consecrate",
+            "description": "Words describing conflict situations or methods of resolution."
+        },
+        {
+            "cluster_name": "Conflict And Resolution",
+            "word": "Discreet",
+            "description": "Words describing conflict situations or methods of resolution."
+        },
+        {
+            "cluster_name": "Growth And Productivity",
+            "word": "Prolific",
+            "description": "Terms related to growth, abundance, or productivity."
+        },
+        {
+            "cluster_name": "Liberalism And Open-Mindedness",
+            "word": "Liberal",
+            "description": "Words associated with open-mindedness, tolerance, or liberalism."
+        },
+        {
+            "cluster_name": "Lazy And Unenthusiastic",
+            "word": "Lackadaisical",
+            "description": "Words related to being lazy or lacking enthusiasm."
+        },
+        {
+            "cluster_name": "Supportive And Encouraging",
+            "word": "Bolster",
+            "description": "Actions or qualities that provide support or encouragement."
+        },
+        {
+            "cluster_name": "Oppressive And Tyrannical",
+            "word": "Despot",
+            "description": "Words describing oppressive or tyrannical behavior."
+        },
+        {
+            "cluster_name": "Continuous And Unceasing",
+            "word": "Incessant",
+            "description": "Words that describe something continuing without pause."
+        },
+        {
+            "cluster_name": "Sexual And Lascivious",
+            "word": "Salacious",
+            "description": "Words related to sexual interest or content."
+        },
+        {
+            "cluster_name": "Sexual And Lascivious",
+            "word": "Lascivious",
+            "description": "Words related to sexual interest or content."
+        },
+        {
+            "cluster_name": "Egalitarianism",
+            "word": "Egalitarian",
+            "description": "Belief in equality among people."
+        },
+        {
+            "cluster_name": "Intermittent And Inconsistent",
+            "word": "Intermittent",
+            "description": "Words describing something that happens at irregular intervals."
+        },
+        {
+            "cluster_name": "Deceptive And Polite",
+            "word": "Sugarcoat",
+            "description": "Actions taken to make something seem more pleasant than it is."
+        },
+        {
+            "cluster_name": "Odor-Related Actions",
+            "word": "Deodorize",
+            "description": "Words related to removing or concealing odors."
+        },
+        {
+            "cluster_name": "Weaken And Destroy",
+            "word": "Sap",
+            "description": "Actions that weaken or destroy something."
+        },
+        {
+            "cluster_name": "Selfless And Altruistic",
+            "word": "Altruistic",
+            "description": "Qualities showing selflessness and concern for others."
+        },
+        {
+            "cluster_name": "Innocuousness",
+            "word": "Innocuous",
+            "description": "Words describing something harmless or not offensive."
+        },
+        {
+            "cluster_name": "Domesticated And Tame",
+            "word": "Tame",
+            "description": "Qualities of being domesticated or non-dangerous."
+        },
+        {
+            "cluster_name": "Adulteration",
+            "word": "Adulterate",
+            "description": "The act of making something impure by adding unwanted elements."
+        },
+        {
+            "cluster_name": "Hypocrisy And Deception",
+            "word": "Feign",
+            "description": "Words related to pretending or deception."
+        },
+        {
+            "cluster_name": "Hypocrisy And Deception",
+            "word": "Flummox",
+            "description": "Words related to pretending or deception."
+        },
+        {
+            "cluster_name": "Initial And Rudimentary",
+            "word": "Inchoate",
+            "description": "Things that are just beginning or not fully developed."
+        },
+        {
+            "cluster_name": "Malingering",
+            "word": "Malinger",
+            "description": "Pretending to be ill to avoid duties."
+        },
+        {
+            "cluster_name": "Irritable And Sulky",
+            "word": "Petulant",
+            "description": "Words describing irritability or sulkiness."
+        },
+        {
+            "cluster_name": "Irritable And Sulky",
+            "word": "Peevish",
+            "description": "Words describing irritability or sulkiness."
+        },
+        {
+            "cluster_name": "Irritable And Sulky",
+            "word": "Sulky",
+            "description": "Words describing irritability or sulkiness."
+        },
+        {
+            "cluster_name": "Skin Condition And Appearance",
+            "word": "Sallow",
+            "description": "Terms related to skin condition or appearance."
+        },
+        {
+            "cluster_name": "Skin Condition And Appearance",
+            "word": "Flushed",
+            "description": "Terms related to skin condition or appearance."
+        },
+        {
+            "cluster_name": "Skin Condition And Appearance",
+            "word": "Complexion",
+            "description": "Terms related to skin condition or appearance."
+        },
+        {
+            "cluster_name": "Dilution",
+            "word": "Dilute",
+            "description": "The process of making something weaker by adding a solvent."
+        },
+        {
+            "cluster_name": "Pompous And Overblown Language",
+            "word": "Bombast",
+            "description": "Words describing pompous or overblown language."
+        },
+        {
+            "cluster_name": "Pompous And Overblown Language",
+            "word": "Adumbrate",
+            "description": "Words describing pompous or overblown language."
+        },
+        {
+            "cluster_name": "Explanations And Summaries",
+            "word": "Exposition",
+            "description": "Actions related to explaining or summarizing."
+        },
+        {
+            "cluster_name": "Explanations And Summaries",
+            "word": "Recapitulation",
+            "description": "Actions related to explaining or summarizing."
+        },
+        {
+            "cluster_name": "Abstraction And Conceptual Thinking",
+            "word": "Abstraction",
+            "description": "Qualities related to abstract thinking."
+        },
+        {
+            "cluster_name": "Recovery And Healing",
+            "word": "Convalesce",
+            "description": "Actions or states related to recovery from illness."
+        },
+        {
+            "cluster_name": "Signs And Proclamations",
+            "word": "Herald",
+            "description": "Words related to heralding signs or proclamations."
+        },
+        {
+            "cluster_name": "Confusion And Bafflement",
+            "word": "Perplex",
+            "description": "Words causing perplexity or confusion."
+        },
+        {
+            "cluster_name": "Confusion And Bafflement",
+            "word": "Flummox",
+            "description": "Words causing perplexity or confusion."
+        },
+        {
+            "cluster_name": "Chance And Naturalness",
+            "word": "Adventitious",
+            "description": "Words related to chance or natural occurrence."
+        },
+        {
+            "cluster_name": "Chance And Naturalness",
+            "word": "Innate",
+            "description": "Words related to chance or natural occurrence."
+        },
+        {
+            "cluster_name": "Lack Of Direction",
+            "word": "Desultory",
+            "description": "Qualities showing a lack of plan or purpose."
+        },
+        {
+            "cluster_name": "Survival And Extinction",
+            "word": "Extant",
+            "description": "Words related to survival or becoming extinct."
+        },
+        {
+            "cluster_name": "Survival And Extinction",
+            "word": "Extinctive",
+            "description": "Words related to survival or becoming extinct."
+        },
+        {
+            "cluster_name": "Healthful And Harmless",
+            "word": "Salubrious",
+            "description": "Qualities promoting health or being harmless."
+        },
+        {
+            "cluster_name": "Miserliness And Scarcity",
+            "word": "Miserliness",
+            "description": "Words describing excessive meanness or smallness."
+        },
+        {
+            "cluster_name": "Perseverance",
+            "word": "Persevere",
+            "description": "The quality of continuing despite difficulties."
+        },
+        {
+            "cluster_name": "Earnest And Sincere",
+            "word": "Earnest",
+            "description": "Words related to sincerity and seriousness."
+        },
+        {
+            "cluster_name": "Earnest And Sincere",
+            "word": "Dent",
+            "description": "Words related to sincerity and seriousness."
+        },
+        {
+            "cluster_name": "Contrast And Division",
+            "word": "Dichotomy",
+            "description": "Terms describing divisions or contrasts between things."
+        },
+        {
+            "cluster_name": "Contrast And Division",
+            "word": "Indigence",
+            "description": "Terms describing divisions or contrasts between things."
+        },
+        {
+            "cluster_name": "Effortless Elegance",
+            "word": "Facile",
+            "description": "Words that convey ease or smoothness."
+        },
+        {
+            "cluster_name": "Effortless Elegance",
+            "word": "Mellifluous",
+            "description": "Words that convey ease or smoothness."
+        },
+        {
+            "cluster_name": "Endurance And Persistence",
+            "word": "Indefatigable",
+            "description": "Terms related to tirelessness and perseverance."
+        },
+        {
+            "cluster_name": "Endurance And Persistence",
+            "word": "Weary",
+            "description": "Terms related to tirelessness and perseverance."
+        },
+        {
+            "cluster_name": "Wandering And Movement",
+            "word": "Meander",
+            "description": "Words that describe meandering or winding paths."
+        },
+        {
+            "cluster_name": "Wandering And Movement",
+            "word": "Winding",
+            "description": "Words that describe meandering or winding paths."
+        },
+        {
+            "cluster_name": "Greenery And Inexperience",
+            "word": "Verdant",
+            "description": "Terms associated with greenery or naivety."
+        },
+        {
+            "cluster_name": "Greenery And Inexperience",
+            "word": "Bucolic",
+            "description": "Terms associated with greenery or naivety."
+        },
+        {
+            "cluster_name": "Hunger And Appetite",
+            "word": "Ravenous",
+            "description": "Words related to intense desire or hunger."
+        },
+        {
+            "cluster_name": "Hunger And Appetite",
+            "word": "Platitudes",
+            "description": "Words related to intense desire or hunger."
+        },
+        {
+            "cluster_name": "Mellow And Smooth",
+            "word": "Mellow",
+            "description": "Terms describing a pleasant, smooth quality."
+        },
+        {
+            "cluster_name": "Mellow And Smooth",
+            "word": "Pith",
+            "description": "Terms describing a pleasant, smooth quality."
+        },
+        {
+            "cluster_name": "Agreement And Consistency",
+            "word": "Concordance",
+            "description": "Words that denote agreement or consistency."
+        },
+        {
+            "cluster_name": "Agreement And Consistency",
+            "word": "Consensus",
+            "description": "Words that denote agreement or consistency."
+        },
+        {
+            "cluster_name": "Contentment And Happiness",
+            "word": "Contentment",
+            "description": "Terms related to satisfaction and joy."
+        },
+        {
+            "cluster_name": "Contentment And Happiness",
+            "word": "Mercenary",
+            "description": "Terms related to satisfaction and joy."
+        },
+        {
+            "cluster_name": "Experienced And Mature",
+            "word": "Mellow",
+            "description": "Words that convey experience or maturity."
+        },
+        {
+            "cluster_name": "Experienced And Mature",
+            "word": "Diffident",
+            "description": "Words that convey experience or maturity."
+        },
+        {
+            "cluster_name": "Teaching And Instruction",
+            "word": "Didactic",
+            "description": "Terms related to teaching or instructing."
+        },
+        {
+            "cluster_name": "Teaching And Instruction",
+            "word": "Savant",
+            "description": "Terms related to teaching or instructing."
+        },
+        {
+            "cluster_name": "Unclear And Vague",
+            "word": "Indeterminate",
+            "description": "Words that describe uncertainty or vagueness."
+        },
+        {
+            "cluster_name": "Unclear And Vague",
+            "word": "Vestige",
+            "description": "Words that describe uncertainty or vagueness."
+        },
+        {
+            "cluster_name": "Rapid Talk And Conversation",
+            "word": "Patter",
+            "description": "Words describing quick or informal speech."
+        },
+        {
+            "cluster_name": "Rapid Talk And Conversation",
+            "word": "Palaver",
+            "description": "Words describing quick or informal speech."
+        },
+        {
+            "cluster_name": "Elaborate Speech",
+            "word": "Flowery",
+            "description": "Terms associated with overly elaborate language."
+        },
+        {
+            "cluster_name": "Elaborate Speech",
+            "word": "Confab",
+            "description": "Terms associated with overly elaborate language."
+        },
+        {
+            "cluster_name": "Travel And Movement",
+            "word": "Commute",
+            "description": "Words related to traveling or commuting."
+        },
+        {
+            "cluster_name": "Travel And Movement",
+            "word": "Rocking",
+            "description": "Words related to traveling or commuting."
+        },
+        {
+            "cluster_name": "Dullness And Repetition",
+            "word": "Monotonous",
+            "description": "Terms describing monotony or lack of interest."
+        },
+        {
+            "cluster_name": "Dullness And Repetition",
+            "word": "Burgeon",
+            "description": "Terms describing monotony or lack of interest."
+        },
+        {
+            "cluster_name": "Opposition And Dissent",
+            "word": "Faction",
+            "description": "Words that denote opposition or dissidence."
+        },
+        {
+            "cluster_name": "Opposition And Dissent",
+            "word": "Dissident",
+            "description": "Words that denote opposition or dissidence."
+        },
+        {
+            "cluster_name": "Scholarship And Learning",
+            "word": "Savant",
+            "description": "Terms related to scholarly knowledge."
+        },
+        {
+            "cluster_name": "Scholarship And Learning",
+            "word": "Revelation",
+            "description": "Terms related to scholarly knowledge."
+        },
+        {
+            "cluster_name": "Deception And Dupery",
+            "word": "Dupe",
+            "description": "Words describing deception or trickery."
+        },
+        {
+            "cluster_name": "Deception And Dupery",
+            "word": "Aloof",
+            "description": "Words describing deception or trickery."
+        },
+        {
+            "cluster_name": "Alliance And Collaboration",
+            "word": "Coalition",
+            "description": "Terms related to alliances or coalitions."
+        },
+        {
+            "cluster_name": "Alliance And Collaboration",
+            "word": "Vintage",
+            "description": "Terms related to alliances or coalitions."
+        },
+        {
+            "cluster_name": "Wine And Scent",
+            "word": "Bouquet",
+            "description": "Words associated with wine's aroma or aging."
+        },
+        {
+            "cluster_name": "Wine And Scent",
+            "word": "Vintage",
+            "description": "Words associated with wine's aroma or aging."
+        },
+        {
+            "cluster_name": "Enlargement And Expansion",
+            "word": "Aggrandize",
+            "description": "Terms describing growth or aggrandizement."
+        },
+        {
+            "cluster_name": "Enlargement And Expansion",
+            "word": "Diffuse",
+            "description": "Terms describing growth or aggrandizement."
+        },
+        {
+            "cluster_name": "Poverty And Need",
+            "word": "Indigence",
+            "description": "Words related to destitution or lack of resources."
+        },
+        {
+            "cluster_name": "Poverty And Need",
+            "word": "Platitudes",
+            "description": "Words related to destitution or lack of resources."
+        },
+        {
+            "cluster_name": "Insight And Realization",
+            "word": "Epiphany",
+            "description": "Terms describing moments of insight or revelation."
+        },
+        {
+            "cluster_name": "Insight And Realization",
+            "word": "Dent",
+            "description": "Terms describing moments of insight or revelation."
+        }
+    ]
+}

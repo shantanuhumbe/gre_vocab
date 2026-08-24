@@ -51,6 +51,25 @@ def init_db():
         )
     ''')
     
+    # Seed word_clusters table if empty and json file exists
+    c.execute('SELECT COUNT(*) FROM word_clusters')
+    count = c.fetchone()[0]
+    if count == 0:
+        json_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "word_clusters.json")
+        if os.path.exists(json_path):
+            import json
+            try:
+                with open(json_path, 'r', encoding='utf-8') as f:
+                    seed_data = json.load(f).get("word_clusters", [])
+                for item in seed_data:
+                    c.execute('''
+                        INSERT OR IGNORE INTO word_clusters (cluster_name, word, description)
+                        VALUES (?, ?, ?)
+                    ''', (item["cluster_name"], item["word"], item["description"]))
+                conn.commit()
+            except Exception as e:
+                print(f"Error seeding word clusters: {str(e)}")
+                
     conn.commit()
     conn.close()
 
