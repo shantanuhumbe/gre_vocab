@@ -1,0 +1,14 @@
+# Ignore SQLite database
+gre_vocab.db
+gre_vocab.db-journal
+
+# Ignore backups
+*.bak
+*.backup.*
+
+# Ignore python caches
+__pycache__/
+*.pyc
+
+# Ignore macOS metadata
+.DS_Store
