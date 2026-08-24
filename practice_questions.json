@@ -894,6 +894,678 @@
                 "D"
             ],
             "explanation": "The sentence describes Maria's refusal to change her decision despite warnings, which fits the meanings of both 'obstinate' and its synonym 'recalcitrant'."
+        },
+        "Complexity And Elaboration": {
+            "sentence": "The lawyer's argument was __________, with numerous digressions and legal jargon that made it difficult to follow.",
+            "choices": [
+                "A. Compendious",
+                "B. Scrupulous",
+                "C. Pragmatic",
+                "D. Tortuous",
+                "E. Concise",
+                "F. Logical"
+            ],
+            "correct_answers": [
+                "D",
+                "A"
+            ],
+            "explanation": "The sentence describes an argument that is difficult to follow due to complexity and numerous digressions. 'Tortuous' fits because it means full of twists and turns, making the argument excessively lengthy and complex. 'Compendious' also fits as it refers to something comprehensive but overly detailed, which aligns with the description."
+        },
+        "Unpredictability And Inconstancy": {
+            "sentence": "The ________ behavior of the stock market has made it difficult for investors to predict future trends.",
+            "choices": [
+                "A. Erratic",
+                "B. Fickle",
+                "C. Steady",
+                "D. Consistent",
+                "E. Regular",
+                "F. Unpredictable"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes the stock market's behavior as unpredictable or not regular, which fits both 'Erratic' and its synonym 'Fickle'."
+        },
+        "Respect And Honor": {
+            "sentence": "The new museum wing was designed to pay __________ to the city's rich cultural heritage.",
+            "choices": [
+                "A. Veneration",
+                "B. Homage",
+                "C. Tribute",
+                "D. Admiration",
+                "E. Recognition",
+                "F. Devotion"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence requires a word that conveys the idea of showing special honor or respect, which aligns with both 'Homage' and its synonym 'Veneration'. The other options like Tribute, Admiration, Recognition, and Devotion do not fit as precisely in this context."
+        },
+        "Strongholds And Defense": {
+            "sentence": "The old castle's __________ stood as a symbol of resilience against the encroaching enemy forces.",
+            "choices": [
+                "A. Bastion",
+                "B. Moat",
+                "C. Citadel",
+                "D. Fortress",
+                "E. Rampart",
+                "F. Keep"
+            ],
+            "correct_answers": [
+                "A",
+                "C"
+            ],
+            "explanation": "The correct answers are 'Bastion' and 'Citadel', as both refer to a fortified stronghold, fitting the context of resilience against enemies."
+        },
+        "Extravagance And Prodigality": {
+            "sentence": "The company's __________ in purchasing luxury office furniture was criticized during the earnings call.",
+            "choices": [
+                "A. Extravagance",
+                "B. Prodigality",
+                "C. Frugality",
+                "D. Thriftiness",
+                "E. Economy",
+                "F. Stinginess"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "Extravagance and Prodigality both mean excessive spending, fitting the context of criticism for purchasing luxury items."
+        },
+        "Enjoyment And Eagerness": {
+            "sentence": "She [________] the opportunity to travel the world with her best friend.",
+            "choices": [
+                "A. Relish",
+                "B. Jubilant",
+                "C. Dislike",
+                "D. Ignore",
+                "E. Seize",
+                "F. Regret"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "Both 'Relish' and 'Jubilant' fit well in the sentence, expressing great enjoyment of the opportunity."
+        },
+        "Formality And Solemnity": {
+            "sentence": "The jury's _________ demeanor during the trial suggested that they took their responsibilities very seriously.",
+            "choices": [
+                "A. Sollemn",
+                "B. Abjure",
+                "C. Siege",
+                "D. Beleaguer",
+                "E. Solemn",
+                "F. Solemn"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The sentence describes the jury's serious attitude, which aligns with 'solemn'. Choices A and E are both correct synonyms for 'sollemn' in this context."
+        },
+        "Seasonal Events And Astronomy": {
+            "sentence": "The ancient stone circle was built to align with the movements of the sun during key astronomical events, such as the __________ and solstices.",
+            "choices": [
+                "A. Equinox",
+                "B. Eclipses",
+                "C. Seasons",
+                "D. Aurora",
+                "E. Tides",
+                "F. Meteors"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The correct answers are 'Equinox' and 'Solstices' as both refer to significant solar events. The sentence discusses astronomical events related to the sun's position, making Equinox and Solstice appropriate."
+        },
+        "Flexibility And Suppleness": {
+            "sentence": "After years of practice, her yoga poses became increasingly ________ and elegant.",
+            "choices": [
+                "A. Rigid",
+                "B. Flexible",
+                "C. Limpid",
+                "D. Limber",
+                "E. Steady",
+                "F. Solid"
+            ],
+            "correct_answers": [
+                "D",
+                "B"
+            ],
+            "explanation": "The sentence describes yoga poses becoming more flexible and elegant, making 'Limber' (D) and its synonym 'Flexible' (B) the correct answers."
+        },
+        "Seriousness And Sobriety": {
+            "sentence": "The judge's demeanor was __________ as she delivered her verdict in the high-profile case.",
+            "choices": [
+                "A. Sober",
+                "B. Stern",
+                "C. Amiable",
+                "D. Playful",
+                "E. Flippant",
+                "F. Giddy"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a judge's serious and composed behavior, which fits both 'sober' (not drunk, serious) and 'stern' (serious, strict)."
+        },
+        "Emotions Of Disgust And Anger": {
+            "sentence": "The sight of the neglected and dirty public restroom caused a feeling of __________ in the passersby.",
+            "choices": [
+                "A. Abhorrence",
+                "B. Lithe",
+                "C. Admiration",
+                "D. Delight",
+                "E. Contempt",
+                "F. Envy"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The sentence describes a negative emotion caused by an unpleasant sight, which fits the definitions of both 'revulsion' and its synonym 'abhorrence'. The other options do not fit the context."
+        },
+        "Emotions And Attitudes": {
+            "sentence": "The students expressed their __________ at the sudden change in exam dates without prior notice.",
+            "choices": [
+                "A. Indignation",
+                "B. Resentment",
+                "C. Penitent",
+                "D. Contrition",
+                "E. Jaded",
+                "F. Misgiving"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a reaction to an unfair situation, where 'indignation' and 'resentment' both fit as they express anger or annoyance."
+        },
+        "Legal And Moral Concepts": {
+            "sentence": "The jury's role was to __________ the defendant if they found him not guilty.",
+            "choices": [
+                "A. Acquit",
+                "B. Benign",
+                "C. Conducive",
+                "D. Insolence",
+                "E. Derisive",
+                "F. Aesthetic"
+            ],
+            "correct_answers": [
+                "A",
+                "none"
+            ],
+            "explanation": "The correct answer is 'Acquit' as it directly relates to declaring someone free from guilt, which aligns with the definition of 'absolve'. The other options do not fit the context."
+        },
+        "Actions And Outcomes": {
+            "sentence": "The police were investigating the case when they realized that the suspect had __________ from the scene of the crime.",
+            "choices": [
+                "A. rescind",
+                "B. paucity",
+                "C. trite",
+                "D. gourmet",
+                "E. succinct",
+                "F. abscond"
+            ],
+            "correct_answers": [
+                "F",
+                "none"
+            ],
+            "explanation": "The correct answer is 'abscond' because the sentence describes someone leaving hurriedly and secretly to escape custody or avoid arrest, which fits the definition of 'abscond'. None of the other options provided are synonyms for 'abscond'."
+        },
+        "Personality Traits And Characteristics": {
+            "sentence": "The new policy has been met with __________ opposition from environmental groups who view it as a threat to their cause.",
+            "choices": [
+                "A. Truculent",
+                "B. Volatile",
+                "C. Pedestrian",
+                "D. Affluent",
+                "E. Conundrum",
+                "F. Pacifist"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes opposition that is fierce or aggressive. 'Truculent' fits because it means aggressively defiant, and 'Volatile' also implies quick to argue or fight, making both correct."
+        },
+        "Cognition And Perception": {
+            "sentence": "The police were able to __________ the criminal after a lengthy investigation.",
+            "choices": [
+                "A. Discern",
+                "B. Quibble",
+                "C. Pedagogy",
+                "D. Apprehend",
+                "E. Understand",
+                "F. Perceive"
+            ],
+            "correct_answers": [
+                "D",
+                "E"
+            ],
+            "explanation": "The correct answers are 'Apprehend' (D) and 'Understand' (E). Both fit the context of successfully identifying or arresting the criminal."
+        },
+        "Synonyms Of Restraint And Moderation": {
+            "sentence": "Despite her love for desserts, Jane maintained a diet that was __________ in its avoidance of sugar.",
+            "choices": [
+                "A. abstemious",
+                "B. gluttonous",
+                "C. temperate",
+                "D. moderate",
+                "E. restrained",
+                "F. forbear"
+            ],
+            "correct_answers": [
+                "A",
+                "C"
+            ],
+            "explanation": "The sentence describes Jane's diet as avoiding sugar, which implies self-control and moderation. 'Abstemious' (A) fits perfectly because it means characterized by moderation and self-control. 'Temperate' (C) is a synonym that also conveys the idea of moderation, making both A and C correct answers."
+        },
+        "Actions Of Control And Constraint": {
+            "sentence": "The construction near the highway was designed to ________ the flow of traffic during rush hour.",
+            "choices": [
+                "A. Incarcerate",
+                "B. Manacle",
+                "C. Trammel",
+                "D. Subjugate",
+                "E. Impede",
+                "F. Halt"
+            ],
+            "correct_answers": [
+                "E",
+                "C"
+            ],
+            "explanation": "The sentence requires a word that means to hinder or obstruct traffic flow. 'Impede' and 'Trammel' both fit this context, with 'Impede' being the target word and 'Trammel' as its synonym."
+        },
+        "Superiority And Eliteness": {
+            "sentence": "The city was known for its________ atmosphere, which attracted people from all over the world.",
+            "choices": [
+                "A. cosmopolitan",
+                "B. puny",
+                "C. provincial",
+                "D. insular",
+                "E. gregarious",
+                "F. urban"
+            ],
+            "correct_answers": [
+                "A",
+                "none of the other choices are correct synonyms for cosmopolitan except 'puny' isn't a synonym, so perhaps I made a mistake here."
+            ],
+            "explanation": "The sentence describes a city that attracts people from many countries, fitting 'cosmopolitan'. The other correct answer should be a synonym, but 'puny' doesn't fit. Maybe I need to choose another synonym."
+        },
+        "Words Of Greatness And Magnitude": {
+            "sentence": "The proposed restructuring of the company was met with resistance because its _________ structure made it difficult to implement changes quickly.",
+            "choices": [
+                "A. Monolithic",
+                "B. Elephantine",
+                "C. Dinosaurian",
+                "D. Stupendous",
+                "E. Colossal",
+                "F. Gigantic"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes an organization that is resistant to change due to its structure, which fits the definition of 'monolithic.' 'Elephantine' also conveys a sense of size and slowness, making it a suitable synonym in this context."
+        },
+        "Actions Of Conquering And Defeating": {
+            "sentence": "The ancient warriors were determined to __________ their enemies in battle.",
+            "choices": [
+                "A. Defeat",
+                "B. Subjugate",
+                "C. Conquer",
+                "D. Overcome",
+                "E. Crush",
+                "F. Dominate"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The correct answers are 'Defeat' and 'Subjugate' because both convey the meaning of thoroughly defeating enemies in battle."
+        },
+        "Words Related To Profitability And Success": {
+            "sentence": "The company's new marketing strategy has proven to be __________, significantly increasing their profits.",
+            "choices": [
+                "A. Lucrative",
+                "B. Creditable",
+                "C. Promising",
+                "D. Respectful",
+                "E. Ambitious",
+                "F. Efficient"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a marketing strategy that brings significant profit, so 'lucrative' fits perfectly. 'Creditable' is another suitable synonym here as it implies something that can be trusted and is successful, making both A and B correct."
+        },
+        "Words Describing Physical Characteristics": {
+            "sentence": "The new software update was __________ and took hours to install.",
+            "choices": [
+                "A. Cumbersome",
+                "B. Ponderous",
+                "C. Hew",
+                "D. Efficient",
+                "E. Quick",
+                "F. Smooth"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes the software update as slow or inefficient, which matches both 'Cumbersome' and 'Ponderous'."
+        },
+        "Words Of Beauty And Charisma": {
+            "sentence": "The new CEO impressed everyone with his __________ demeanor and sharp business acumen.",
+            "choices": [
+                "A. Suave",
+                "B. Ethereal",
+                "C. Rugged",
+                "D. Gracious",
+                "E. Charismatic",
+                "F. Reserved"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The sentence describes a CEO who is both charming and confident, which fits 'Suave'. 'Charismatic' (E) also conveys similar qualities of charm and confidence, making it the other correct choice."
+        },
+        "Negative Descriptions And Ridiculousness": {
+            "sentence": "The plan to repaint the house with glow-in-the-dark paint seemed ________ when the cost estimate arrived.",
+            "choices": [
+                "A. Ludicrous",
+                "B. Lugubrious",
+                "C. Turpitude",
+                "D. Deleterious",
+                "E. Amusing",
+                "F. Practical"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The sentence describes a plan that is so unreasonable it's amusing, which matches 'Ludicrous' and its synonym 'Amusing'."
+        },
+        "Structures And Physical Objects": {
+            "sentence": "The ancient explorers were amazed by the __________ beneath the earth's surface, a place where sunlight never reached and where strange creatures thrived in the depths.",
+            "choices": [
+                "A. Cavern",
+                "B. Skyscraper",
+                "C. Grotto",
+                "D. Tunnel",
+                "E. Cave",
+                "F. Mine shaft"
+            ],
+            "correct_answers": [
+                "A",
+                "E"
+            ],
+            "explanation": "The correct answers are 'Cavern' (A) and 'Cave' (E). Both words fit the context of a large, dark underground space as described in the sentence."
+        },
+        "Gifts And Transfers": {
+            "sentence": "The lawyer carefully prepared the documents to ensure that the inheritance would be properly ________ to the beneficiaries.",
+            "choices": [
+                "A. Bequest",
+                "B. Endow",
+                "C. Assign",
+                "D. Donate",
+                "E. Transfer",
+                "F. Inherit"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The correct answers are 'Bequest' and 'Endow'. The sentence refers to the act of leaving property or money through a will, which aligns with both words. 'Assign', 'Donate', 'Transfer', and 'Inherit' do not fit as well in this context."
+        },
+        "Communication Styles": {
+            "sentence": "The speech was so compelling that it perfectly __________ the challenges we face as a society.",
+            "choices": [
+                "A. Declaim",
+                "B. Rhetoric",
+                "C. Impassioned",
+                "D. Declamation",
+                "E. Delineate",
+                "F. Peroration"
+            ],
+            "correct_answers": [
+                "E",
+                "F"
+            ],
+            "explanation": "The correct answers are 'E. Delineate' and 'F. Peroration'. The sentence requires a word that conveys the precise description or portrayal of challenges, which fits both 'delineate' (to describe clearly) and 'peroration' (the concluding part of a speech, often where the main points are emphasized)."
+        },
+        "Euphemisms And Sensitivity In Language": {
+            "sentence": "The use of __________ in political speeches often aims to soften the impact of difficult truths.",
+            "choices": [
+                "A. Euphemism",
+                "B. Sarcasm",
+                "C. Metaphor",
+                "D. Euphony",
+                "E. Hyperbole",
+                "F. Analogy"
+            ],
+            "correct_answers": [
+                "A",
+                "D"
+            ],
+            "explanation": "The sentence discusses the use of language to soften difficult truths, which aligns with the definition of 'euphemism'. 'Euphony' refers to pleasing sounds and can also be used metaphorically as a synonym for euphemism in this context. The other options (sarcasm, metaphor, hyperbole, analogy) do not fit the intended meaning."
+        },
+        "Mental And Emotional States": {
+            "sentence": "After spending hours in the library, Sarah felt a deep sense of __________ as she reflected on her research findings.",
+            "choices": [
+                "A. Pensive",
+                "B. Magnanimity",
+                "C. Umbrage",
+                "D. Unconscionable",
+                "E. Thoughtful",
+                "F. Contemplative"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The sentence describes Sarah's state after deep reflection, which aligns with 'Pensive' (A) and 'Contemplative' (F)."
+        },
+        "Physical And Environmental Conditions": {
+            "sentence": "The rescue operation was _________ with chaotic radio communications and conflicting orders from different command centers.",
+            "choices": [
+                "A. Maelstrom",
+                "B. Blizzard",
+                "C. Harmony",
+                "D. Cacophony",
+                "E. Dissonance",
+                "F. Calmness"
+            ],
+            "correct_answers": [
+                "A",
+                "D"
+            ],
+            "explanation": "The sentence describes a scene of intense confusion and turmoil, which fits the definition of 'maelstrom'. 'Cacophony' is another synonym that conveys a state of noisy chaos, making both A and D correct."
+        },
+        "Speech And Communication Techniques": {
+            "sentence": "The [BLANK] speech was met with a thunderous applause from the audience.",
+            "choices": [
+                "A. Rhetoric",
+                "B. Impassioned",
+                "C. Declamation",
+                "D. Oration",
+                "E. Peroration",
+                "F. Eloquence"
+            ],
+            "correct_answers": [
+                "C",
+                "D"
+            ],
+            "explanation": "The correct answers are 'Declamation' (C) and 'Oration' (D), as both mean a formal and elaborate speech, fitting the context of the sentence."
+        },
+        "Calmness And Composure": {
+            "sentence": "Despite the chaotic environment, she remained __________ throughout the presentation.",
+            "choices": [
+                "A. Tranquil",
+                "B. Imperturbable",
+                "C. Stoic",
+                "D. Nervous",
+                "E. Anxious",
+                "F. Flustered"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes someone maintaining calm in a chaotic setting. 'Tranquil' and 'Imperturbable' both convey the state of being calm and unshaken, fitting perfectly into the blank."
+        },
+        "Negative Emotions And Annoyance": {
+            "sentence": "The new policy has been __________ to many employees, who feel it undermines their job security.",
+            "choices": [
+                "A. Vexing",
+                "B. Jarring",
+                "C. Incongruous",
+                "D. Pestilential",
+                "E. Uncanny",
+                "F. Canny"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a policy that causes frustration or annoyance, which fits 'Vexing'. 'Jarring' also works as it can describe something that causes irritation or discomfort."
+        },
+        "Intensification/Peak Points": {
+            "sentence": "The speech reached its __________ when the speaker delivered a powerful message about unity and hope.",
+            "choices": [
+                "A. Apogee",
+                "B. Crescendo",
+                "C. Climax",
+                "D. Zenith",
+                "E. Peak",
+                "F. Pinnacle"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The correct answers are 'Apogee' and 'Crescendo'. Apogee refers to the highest point in development, which fits the context of reaching a powerful message. Crescendo, meaning a gradual increase in loudness or intensity, also fits as the speech escalated to its peak."
+        },
+        "Perfunctory/Casual Indifference": {
+            "sentence": "The committee's review of the proposal was __________, lacking any genuine engagement or critical analysis.",
+            "choices": [
+                "A. Perfunctory",
+                "B. Nonchalant",
+                "C. Insouciant",
+                "D. Pococurante",
+                "E. Diligent",
+                "F. Enthusiastic"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a review that was done without real interest or effort, which fits 'Perfunctory'. 'Nonchalant' is also appropriate as it means showing little concern or interest, aligning with the context."
+        },
+        "Foreknowledge And Omens": {
+            "sentence": "The ancient [__] accurately predicted events that were yet to occur, showcasing their remarkable ability.",
+            "choices": [
+                "A. Prescience",
+                "B. Presage",
+                "C. Portent",
+                "D. Augury",
+                "E. Prognosis",
+                "F. Unprophetic"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence discusses the ability to predict future events, which aligns with 'prescience' (foreknowledge) and 'presage' (a sign or warning of future events). The other options do not fit as well in this context."
+        },
+        "Callousness And Indifference": {
+            "sentence": "Despite her cheerful demeanor, she was __________ to the plight of her friend, which left others feeling both surprised and concerned.",
+            "choices": [
+                "A. Blithe",
+                "B. Callous",
+                "C. Facetious",
+                "D. Flippant",
+                "E. Frivolous",
+                "F. Levity"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes someone who is cheerful but lacks concern, indicating a casual and indifferent attitude. 'Blithe' fits perfectly as it conveys cheerful indifference. 'Callous' also means emotionally insensitive, making both A and B correct."
+        },
+        "Arguments And Conflicts": {
+            "sentence": "The neighbors were known to __________ over the loud music coming from the house next door.",
+            "choices": [
+                "A. Squabble",
+                "B. Bicker",
+                "C. Truce",
+                "D. Debate",
+                "E. Argue",
+                "F. Dispute"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "explanation": "The sentence describes a noisy quarrel about something trivial, which fits 'Squabble' and its synonym 'Bicker'."
+        },
+        "Arrogance And Superiority": {
+            "sentence": "Despite her success, she maintained a certain __________ that put others off.",
+            "choices": [
+                "A. Humility",
+                "B. Hauteur",
+                "C. Modesty",
+                "D. Confidence",
+                "E. Arrogance",
+                "F. Shyness"
+            ],
+            "correct_answers": [
+                "B",
+                "E"
+            ],
+            "explanation": "Both 'Hauteur' and 'Arrogance' convey a proud and haughty manner that fits the context of putting others off."
+        },
+        "Mood And Emotional States": {
+            "sentence": "The evening walk by the river left her in a profound __________, as if the weight of the world's troubles had settled upon her shoulders.",
+            "choices": [
+                "A. Enthusiasm",
+                "B. Melancholy",
+                "C. Jubilance",
+                "D. Biliousness",
+                "E. Euphoria",
+                "F. Contentment"
+            ],
+            "correct_answers": [
+                "B",
+                "D"
+            ],
+            "explanation": "The sentence describes a deep, pensive sadness without an obvious cause, which fits the definition of 'Melancholy'. 'Biliousness' conveys a similar somber and gloomy feeling, making it the other correct synonym."
+        },
+        "Growth And Accumulation": {
+            "sentence": "The formation of coral reefs is a remarkable process that relies on the __________ of tiny calcium carbonate structures by marine organisms over thousands of years.",
+            "choices": [
+                "A. Accumulation",
+                "B. Degradation",
+                "C. Erosion",
+                "D. Expansion",
+                "E. Proliferation",
+                "F. Augmentation"
+            ],
+            "correct_answers": [
+                "A",
+                "F"
+            ],
+            "explanation": "The sentence describes the gradual growth of coral reefs through the accumulation or increase in calcium carbonate structures, making 'Accretion' (synonymous with 'Augmentation') and its close synonym 'Proliferation' correct. However, since 'Accretion' is the target word, the correct answers are 'A. Accumulation' (as it directly relates to accretion) and 'F. Augmentation'."
         }
     }
 }
